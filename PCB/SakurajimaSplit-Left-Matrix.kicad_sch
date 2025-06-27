@@ -1551,7 +1551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "034b1747-dedf-43cf-a2dd-3e4d6d66a42e")
-		(property "Reference" "SW3"
+		(property "Reference" "SW4"
 			(at 147.32 54.61 0)
 			(effects
 				(font
@@ -1594,6 +1594,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 147.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 147.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 147.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 147.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f3157e07-a2d7-49f7-90e6-01ebd08a93f0")
 		)
@@ -1603,7 +1635,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW3")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -1619,7 +1651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a15d53a-e827-486f-9cd9-9f2afc77f912")
-		(property "Reference" "D18"
+		(property "Reference" "D20"
 			(at 205.74 113.0299 90)
 			(effects
 				(font
@@ -1682,6 +1714,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 203.2 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 203.2 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 203.2 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0bfdcd8a-b087-4e1f-8704-c0410ef4ffb8")
 		)
@@ -1691,7 +1755,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D18")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -1707,7 +1771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0beb6012-e8e5-41c1-a108-a85c4c4be481")
-		(property "Reference" "D11"
+		(property "Reference" "D13"
 			(at 187.96 90.1699 90)
 			(effects
 				(font
@@ -1770,6 +1834,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 185.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 185.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 185.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 185.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1e2119b9-e99f-49ae-ac15-d2278e41dd73")
 		)
@@ -1779,7 +1875,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D11")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -1795,7 +1891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10755326-e0cb-479f-9bfe-66a3b5f2f853")
-		(property "Reference" "SW18"
+		(property "Reference" "SW19"
 			(at 200.66 100.33 0)
 			(effects
 				(font
@@ -1838,6 +1934,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 200.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e0c2199c-3323-4717-986e-b8742a9b21e1")
 		)
@@ -1847,7 +1975,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW18")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -1863,7 +1991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10aff86e-8ca6-4273-add8-f7ce4392be5a")
-		(property "Reference" "D6"
+		(property "Reference" "D8"
 			(at 205.74 67.3099 90)
 			(effects
 				(font
@@ -1926,6 +2054,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 203.2 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d644e4a-9291-4b14-92f5-4328ca3c438a")
 		)
@@ -1935,7 +2095,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D6")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -1951,7 +2111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "115fc7c5-27f0-4add-a5f1-93dcecdc3402")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 134.62 67.3099 90)
 			(effects
 				(font
@@ -2014,6 +2174,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 132.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 132.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 132.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 132.08 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "da9c0ded-4f7b-45ec-a3db-2b1bc831cea1")
 		)
@@ -2023,7 +2215,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2039,7 +2231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "124ee9a6-4c9d-4269-af45-461c5b2ca800")
-		(property "Reference" "D9"
+		(property "Reference" "D11"
 			(at 152.4 90.1699 90)
 			(effects
 				(font
@@ -2102,6 +2294,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "94cb63c7-c637-4a15-bd41-f5e3537b4f80")
 		)
@@ -2111,7 +2335,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D9")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -2127,7 +2351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "177384f7-049b-4647-b443-5d7c69112b1c")
-		(property "Reference" "SW4"
+		(property "Reference" "SW5"
 			(at 165.1 54.61 0)
 			(effects
 				(font
@@ -2170,6 +2394,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 165.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 165.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 165.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 165.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34a42eb0-b252-493b-b264-04b3e14e6c92")
 		)
@@ -2179,7 +2435,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW4")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -2195,7 +2451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a9bc929-df99-4250-a77b-ff9536232802")
-		(property "Reference" "D10"
+		(property "Reference" "D12"
 			(at 170.18 90.1699 90)
 			(effects
 				(font
@@ -2258,6 +2514,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ee13911e-c405-4b30-9041-b6f0987e4968")
 		)
@@ -2267,7 +2555,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D10")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -2283,7 +2571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1aa5a5bd-787d-4fc9-8217-bd5d31c2445c")
-		(property "Reference" "SW6"
+		(property "Reference" "SW7"
 			(at 200.66 54.61 0)
 			(effects
 				(font
@@ -2326,6 +2614,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cf6d825e-38ca-4cf8-aaf7-2d1bc7d7d644")
 		)
@@ -2335,7 +2655,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW6")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -2351,7 +2671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e206ccc-dbd5-4756-8508-4ac2eacb22c7")
-		(property "Reference" "SW19"
+		(property "Reference" "SW20"
 			(at 165.1 123.19 0)
 			(effects
 				(font
@@ -2394,6 +2714,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 165.1 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 165.1 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 165.1 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 165.1 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c12e7df6-d4fd-4a11-bb9f-fa951b2c2d55")
 		)
@@ -2403,7 +2755,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW19")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -2419,7 +2771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2772dc29-b2fa-4fa4-9e3d-6206fef0c8ae")
-		(property "Reference" "SW14"
+		(property "Reference" "SW15"
 			(at 129.54 100.33 0)
 			(effects
 				(font
@@ -2462,6 +2814,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "958936cb-ecce-4230-86b3-53b5f1142f4e")
 		)
@@ -2471,7 +2855,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW14")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -2487,7 +2871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b445c36-57cc-4705-a138-b382e1ff2f10")
-		(property "Reference" "SW20"
+		(property "Reference" "SW21"
 			(at 182.88 123.19 0)
 			(effects
 				(font
@@ -2530,6 +2914,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 182.88 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 182.88 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 182.88 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0091021e-bcda-473a-8f44-36d002a9f331")
 		)
@@ -2539,7 +2955,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW20")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -2555,7 +2971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ce959be-ac38-4f31-8111-5dd3526037a6")
-		(property "Reference" "D21"
+		(property "Reference" "D23"
 			(at 205.74 135.8899 90)
 			(effects
 				(font
@@ -2618,6 +3034,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cbc694fd-ea59-411c-8fcf-206e2b1873ea")
 		)
@@ -2627,7 +3075,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D21")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -2643,7 +3091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34eb1976-a140-4d06-8795-7bd5f67bb33d")
-		(property "Reference" "SW16"
+		(property "Reference" "SW17"
 			(at 165.1 100.33 0)
 			(effects
 				(font
@@ -2686,6 +3134,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 165.1 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 165.1 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 165.1 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 165.1 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "809416ee-526b-43d3-834e-19cbba002459")
 		)
@@ -2695,7 +3175,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW16")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -2711,7 +3191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "361d760b-e5bd-455d-a2b3-c7141aa91731")
-		(property "Reference" "D3"
+		(property "Reference" "D5"
 			(at 152.4 67.3099 90)
 			(effects
 				(font
@@ -2774,6 +3254,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 149.86 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 149.86 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 149.86 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 149.86 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9481ac70-d2d9-492a-b5d5-e52359c4ca1f")
 		)
@@ -2783,7 +3295,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D3")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -2799,7 +3311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fcada8d-3912-4fe5-a692-87b0b725f005")
-		(property "Reference" "D15"
+		(property "Reference" "D17"
 			(at 152.4 113.0299 90)
 			(effects
 				(font
@@ -2862,6 +3374,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 149.86 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 149.86 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 149.86 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 149.86 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "150fb51a-45c7-46bf-914f-97964a1611ec")
 		)
@@ -2871,7 +3415,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D15")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -2887,7 +3431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d27623c-be9c-4748-846f-4ca6cd8c6b4e")
-		(property "Reference" "SW12"
+		(property "Reference" "SW13"
 			(at 200.66 77.47 0)
 			(effects
 				(font
@@ -2930,6 +3474,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "07a74e5f-d45d-43af-8b0e-6bc998636f8a")
 		)
@@ -2939,7 +3515,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW12")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -2955,7 +3531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53512edc-8184-4200-b89c-8259712c6395")
-		(property "Reference" "SW2"
+		(property "Reference" "SW3"
 			(at 129.54 54.61 0)
 			(effects
 				(font
@@ -2998,6 +3574,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 129.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e90d86c4-f125-4084-a37c-7eee3a9c4861")
 		)
@@ -3007,7 +3615,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW2")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -3023,7 +3631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "667da30b-9d66-409c-a2c4-4d14013409de")
-		(property "Reference" "SW15"
+		(property "Reference" "SW16"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -3066,6 +3674,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 147.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "139d2ec2-9fde-4830-b774-32e9fade4106")
 		)
@@ -3075,7 +3715,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW15")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -3091,7 +3731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "755d742e-352f-414f-ad39-0dc50a92497a")
-		(property "Reference" "D13"
+		(property "Reference" "D15"
 			(at 116.84 113.0299 90)
 			(effects
 				(font
@@ -3154,6 +3794,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3203e2d1-d894-462b-9dac-6f56501848aa")
 		)
@@ -3163,7 +3835,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D13")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -3179,7 +3851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80aea848-82ae-431a-afe9-ace917251b35")
-		(property "Reference" "D7"
+		(property "Reference" "D9"
 			(at 116.84 90.1699 90)
 			(effects
 				(font
@@ -3242,6 +3914,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ab61ba45-2412-4fb6-95b6-4a46cf2e1c03")
 		)
@@ -3251,7 +3955,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D7")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3267,7 +3971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82ef95c3-315c-44e8-904d-abaf4d5e56f1")
-		(property "Reference" "SW5"
+		(property "Reference" "SW6"
 			(at 182.88 54.61 0)
 			(effects
 				(font
@@ -3310,6 +4014,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 182.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 182.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 182.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55626fd4-9821-4f5c-acd6-57e887555395")
 		)
@@ -3319,7 +4055,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW5")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -3335,7 +4071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8532ea23-990f-4a57-aac1-39a111bc09b6")
-		(property "Reference" "SW10"
+		(property "Reference" "SW11"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -3378,6 +4114,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 165.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 165.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 165.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 165.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "94df3d58-9a54-4dc6-8db3-fb814c80d585")
 		)
@@ -3387,7 +4155,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW10")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -3403,7 +4171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "866acb34-5b1b-4df6-960b-eb915d9d73ca")
-		(property "Reference" "SW9"
+		(property "Reference" "SW10"
 			(at 147.32 77.47 0)
 			(effects
 				(font
@@ -3446,6 +4214,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 147.32 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 147.32 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 147.32 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 147.32 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a6bfbd93-7f96-4b3b-8e57-90caee43f67c")
 		)
@@ -3455,7 +4255,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW9")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -3471,7 +4271,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b943134-f8e6-4e11-91e3-dc84ed5f6745")
-		(property "Reference" "SW13"
+		(property "Reference" "SW14"
 			(at 111.76 100.33 0)
 			(effects
 				(font
@@ -3514,6 +4314,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "af566bcd-4206-4992-ac05-4e9dabcc4a23")
 		)
@@ -3523,7 +4355,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW13")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -3539,7 +4371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94d5ccd8-d86d-47f6-9305-ddbfcdec786e")
-		(property "Reference" "D8"
+		(property "Reference" "D10"
 			(at 134.62 90.1699 90)
 			(effects
 				(font
@@ -3602,6 +4434,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 132.08 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 132.08 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 132.08 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 132.08 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e5f1507-89ec-442b-9ddc-1d567e8c1192")
 		)
@@ -3611,7 +4475,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D8")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -3627,7 +4491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac2db9e3-168b-40ca-bf3b-6483fe5732e0")
-		(property "Reference" "SW7"
+		(property "Reference" "SW8"
 			(at 111.76 77.47 0)
 			(effects
 				(font
@@ -3670,6 +4534,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4c7084b7-4fb4-40e2-9506-9e337bb275ba")
 		)
@@ -3679,7 +4575,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW7")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -3695,7 +4591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afe1746d-73f8-42f3-b4c8-0999451a77d6")
-		(property "Reference" "SW11"
+		(property "Reference" "SW12"
 			(at 182.88 77.47 0)
 			(effects
 				(font
@@ -3738,6 +4634,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 182.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 182.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 182.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7b9e4ec6-7961-4480-a649-2ae8e84ed9b9")
 		)
@@ -3747,7 +4675,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW11")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -3763,7 +4691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2ec7d0b-7338-423e-bf63-46435802a903")
-		(property "Reference" "SW21"
+		(property "Reference" "SW22"
 			(at 200.66 123.19 0)
 			(effects
 				(font
@@ -3806,6 +4734,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 200.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 200.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 200.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 200.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "178879f4-4ddb-4de0-82f0-65f50a777399")
 		)
@@ -3815,7 +4775,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW21")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -3831,7 +4791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9fee41f-e7ae-4b04-9049-057b1e7e8263")
-		(property "Reference" "D12"
+		(property "Reference" "D14"
 			(at 205.74 90.1699 90)
 			(effects
 				(font
@@ -3894,6 +4854,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0e5d7f1f-8875-4250-ada1-f806f7438d42")
 		)
@@ -3903,7 +4895,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D12")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -3919,7 +4911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc6eff17-9a58-4fae-8e6c-4ab7f7cd23c6")
-		(property "Reference" "D14"
+		(property "Reference" "D16"
 			(at 134.62 113.0299 90)
 			(effects
 				(font
@@ -3982,6 +4974,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "430306ce-a509-4205-807f-8865e6535289")
 		)
@@ -3991,7 +5015,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D14")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -4007,7 +5031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2b8145a-314a-4470-9380-89ef50cb0410")
-		(property "Reference" "SW8"
+		(property "Reference" "SW9"
 			(at 129.54 77.47 0)
 			(effects
 				(font
@@ -4050,6 +5074,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1a816bf4-308b-4ecd-84f3-95f53fcac4e4")
 		)
@@ -4059,7 +5115,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW8")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -4075,7 +5131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb3b3b54-102c-4193-be59-4f58ea0ed60a")
-		(property "Reference" "D16"
+		(property "Reference" "D18"
 			(at 170.18 113.0299 90)
 			(effects
 				(font
@@ -4138,6 +5194,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 167.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 167.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 167.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5ed8769c-2060-44b1-b5c4-f44338da21ff")
 		)
@@ -4147,7 +5235,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D16")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -4163,7 +5251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbeff0fb-5a6e-45dd-83dc-cf4f857680b1")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 170.18 67.3099 90)
 			(effects
 				(font
@@ -4226,6 +5314,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 167.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 167.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 167.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4e92f11-967e-476d-ba2d-f64eaf6475fc")
 		)
@@ -4235,7 +5355,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -4251,7 +5371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccdacd61-e10c-4403-a761-d83fbb6d87a0")
-		(property "Reference" "D19"
+		(property "Reference" "D21"
 			(at 170.18 135.8899 90)
 			(effects
 				(font
@@ -4314,6 +5434,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7b67490c-efa5-4f34-a765-3f7be5b6dbd6")
 		)
@@ -4323,7 +5475,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D19")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -4339,7 +5491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d573bf3e-7173-48db-ab87-a38a7702b8dc")
-		(property "Reference" "SW17"
+		(property "Reference" "SW18"
 			(at 182.88 100.33 0)
 			(effects
 				(font
@@ -4382,6 +5534,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 182.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 182.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 182.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 182.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7df34558-94d0-4c99-8e93-6aad238cc95f")
 		)
@@ -4391,7 +5575,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW17")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -4407,7 +5591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc8953ca-a794-4a94-89ac-7d4131f7658d")
-		(property "Reference" "SW1"
+		(property "Reference" "SW2"
 			(at 111.76 54.61 0)
 			(effects
 				(font
@@ -4450,6 +5634,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "642e7d08-a1a2-4e22-a07f-d07ec4f895ab")
 		)
@@ -4459,7 +5675,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "SW1")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -4475,7 +5691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfb4abfd-732e-4159-8a9b-0f1bd7d93b6b")
-		(property "Reference" "D20"
+		(property "Reference" "D22"
 			(at 187.96 135.8899 90)
 			(effects
 				(font
@@ -4538,6 +5754,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 185.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 185.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 185.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 185.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "af69e3cb-d6e7-4b07-a028-1dbbcb0bab39")
 		)
@@ -4547,7 +5795,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D20")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -4563,7 +5811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f160ddb2-b2b8-46c8-b2eb-5ca5a8fda6c1")
-		(property "Reference" "D17"
+		(property "Reference" "D19"
 			(at 187.96 113.0299 90)
 			(effects
 				(font
@@ -4626,6 +5874,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 185.42 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 185.42 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 185.42 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 185.42 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2c19cf08-56c7-4c2c-8da2-f331a9b688c3")
 		)
@@ -4635,7 +5915,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D17")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -4651,7 +5931,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5cf1301-984d-419d-94b1-49783f5ec3b1")
-		(property "Reference" "D5"
+		(property "Reference" "D7"
 			(at 187.96 67.3099 90)
 			(effects
 				(font
@@ -4714,6 +5994,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3393d381-57f8-4a0e-8918-62cfc0eaed2a")
 		)
@@ -4723,7 +6035,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D5")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4739,7 +6051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f82db086-1aa9-44ef-bb14-337da10fbc10")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 116.84 67.3099 90)
 			(effects
 				(font
@@ -4802,6 +6114,38 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" ""
+			(at 114.3 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 114.3 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 114.3 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 114.3 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df285d53-a8a3-4a90-9a7b-3662d0a4e8ca")
 		)
@@ -4811,7 +6155,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
