@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "2049b6de-7453-46e1-ab60-70116abff9d6")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "SakurajimaSplit")
 		(date "2025-05-21")
@@ -13,7 +13,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 157.48 69.85)
+		(at 214.63 114.3)
 		(size 60.96 55.88)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29,7 +29,7 @@
 		)
 		(uuid "2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e")
 		(property "Sheetname" "Right-Half"
-			(at 157.48 69.1384 0)
+			(at 214.63 113.5884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,7 +38,7 @@
 			)
 		)
 		(property "Sheetfile" "SakurajimaSplit-Right.kicad_sch"
-			(at 157.48 126.3146 0)
+			(at 214.63 170.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		)
 	)
 	(sheet
-		(at 90.17 69.85)
+		(at 147.32 114.3)
 		(size 60.96 55.88)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -71,7 +71,7 @@
 		)
 		(uuid "d08add9a-e5d5-49be-809e-a90adb11436d")
 		(property "Sheetname" "Left-Half"
-			(at 90.17 69.1384 0)
+			(at 147.32 113.5884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,7 +80,7 @@
 			)
 		)
 		(property "Sheetfile" "SakurajimaSplit-Left.kicad_sch"
-			(at 90.17 126.3146 0)
+			(at 147.32 170.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
