@@ -2,11 +2,11 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "0c11b6cb-7a59-43a7-a612-f4a19d322be2")
+	(uuid "51f876fd-08bf-4e1f-b645-33b76d4c62ef")
 	(paper "A3")
 	(title_block
 		(title "SakurajimaSplit")
-		(date "2025-05-22")
+		(date "2025-08-11")
 		(rev "1.0")
 		(company "HayataSama")
 		(comment 1 "https://github.com/HayataSama/SakurajimaSplit")
@@ -356,8 +356,8 @@
 		)
 	)
 	(rectangle
-		(start 137.16 80.01)
-		(end 281.94 198.12)
+		(start 135.89 78.74)
+		(end 280.67 196.85)
 		(stroke
 			(width 0)
 			(type dash)
@@ -365,11 +365,11 @@
 		(fill
 			(type none)
 		)
-		(uuid 572b5ea9-15a2-4f8d-94ac-826b5c7af9ce)
+		(uuid 1fa06fcd-2023-4cf3-8c87-7c6ecedb06ea)
 	)
 	(text "Key Matrix"
 		(exclude_from_sim no)
-		(at 145.034 74.93 0)
+		(at 143.764 73.66 0)
 		(effects
 			(font
 				(size 2 2)
@@ -377,1082 +377,1043 @@
 				(bold yes)
 			)
 		)
-		(uuid "81e565be-62f0-44a8-ae06-28b66e1a3443")
+		(uuid "0ab87b50-4eef-4d0b-878b-852317e835d5")
 	)
 	(junction
-		(at 229.87 189.23)
+		(at 256.54 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "02b07b5a-85fa-4a81-a21d-7061a72ad346")
+		(uuid "09076558-1d8c-42e0-8a07-b91905b5462e")
 	)
 	(junction
-		(at 212.09 143.51)
+		(at 193.04 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1542e689-f6c1-4624-a105-da8db79d4df9")
+		(uuid "1008922f-d7c4-43c8-8eff-767aa1f159c3")
 	)
 	(junction
-		(at 257.81 105.41)
+		(at 175.26 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "180cda3e-35ea-499f-aaa2-47c9f72ed073")
+		(uuid "1738570c-3d7a-4303-bc10-4133b94dc98f")
 	)
 	(junction
-		(at 186.69 128.27)
+		(at 185.42 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "19ecf112-ff02-4f95-b7e3-5d9694984a96")
+		(uuid "1ab052c6-7b26-4aa7-b23b-1567c5a8e3f7")
 	)
 	(junction
-		(at 247.65 166.37)
+		(at 210.82 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1b37c09e-0c9f-462c-92bd-d1bb1f027148")
+		(uuid "314072f0-05a9-4803-86fd-5ba2ccaa4f9c")
 	)
 	(junction
-		(at 257.81 151.13)
+		(at 167.64 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1bb84992-c2e4-45bb-b058-accf4bd3d5ce")
+		(uuid "39abe4b5-a300-4c3d-89f7-7f6dd9148de3")
 	)
 	(junction
-		(at 212.09 166.37)
+		(at 185.42 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1ce8477c-e454-49ed-8bac-133910ce4037")
+		(uuid "39da3ed3-238a-407c-b206-60c1e8dc47dd")
 	)
 	(junction
-		(at 194.31 120.65)
+		(at 203.2 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2371beed-67ae-4791-b3f3-a17e990a2d4e")
+		(uuid "40dc6eb0-a7bc-4fea-ba65-3f2b321e7077")
 	)
 	(junction
-		(at 222.25 105.41)
+		(at 185.42 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "241572b2-d3d1-45ee-b580-056a1004ee80")
+		(uuid "43a65671-c09e-4c67-b5eb-3fee410c7e24")
 	)
 	(junction
-		(at 168.91 105.41)
+		(at 203.2 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "328da343-dc60-4fb7-a818-0a7a6b4aa29f")
+		(uuid "4a19efd1-db41-479e-932f-a7a2a8bd4502")
 	)
 	(junction
-		(at 222.25 128.27)
+		(at 167.64 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3a837395-3d45-492c-8d98-3ce15505b305")
+		(uuid "4b7280d4-4e65-44aa-a751-a756c8f26cb8")
 	)
 	(junction
-		(at 229.87 143.51)
+		(at 203.2 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4c2eefc4-a9da-43df-a9f8-a878091f7280")
+		(uuid "547f7b07-74e8-435a-bb8f-907c2ee3682f")
 	)
 	(junction
-		(at 229.87 166.37)
+		(at 246.38 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "594e0675-5515-4023-b937-f1e27c3826e7")
+		(uuid "5945a471-ec7b-4156-937c-3f566af1d99a")
 	)
 	(junction
-		(at 194.31 166.37)
+		(at 228.6 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a5c0a5d-4ac1-464f-af84-8192d595e202")
+		(uuid "682765e1-a836-44f1-b7b0-afb439e7ecfa")
 	)
 	(junction
-		(at 229.87 120.65)
+		(at 210.82 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5d77f61f-8830-4a41-a978-d1ce400dc131")
+		(uuid "742bb6fb-00ed-4dbd-a927-4bec4fc357c3")
 	)
 	(junction
-		(at 176.53 166.37)
+		(at 228.6 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6698b78b-5866-484e-8b2e-2aff2029c5ed")
+		(uuid "7e76df26-f29e-442c-a002-8146c8027238")
 	)
 	(junction
-		(at 247.65 120.65)
+		(at 246.38 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "704d2461-aa77-405c-b7fe-16139174df9e")
+		(uuid "81084e5e-b219-496b-9b02-7416b9139397")
 	)
 	(junction
-		(at 240.03 151.13)
+		(at 175.26 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "709d9a0f-b597-43bd-b2f6-a949f2a673b2")
+		(uuid "8564a552-c185-4b71-96f4-0b46ffb9556a")
 	)
 	(junction
-		(at 204.47 105.41)
+		(at 193.04 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "74a08d42-4f74-4dcc-9f11-f1d4110841b4")
+		(uuid "8973da26-2f01-4176-8231-68d217abd7de")
 	)
 	(junction
-		(at 222.25 151.13)
+		(at 228.6 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "88b45003-b268-4471-99ef-20c1ac15a8a7")
+		(uuid "934ba424-25c9-48f0-a1e3-0cb7ff451edf")
 	)
 	(junction
-		(at 240.03 128.27)
+		(at 175.26 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a1d6b865-a5c3-4dbd-b78a-c7de7817e324")
+		(uuid "a2b14a6a-9825-4000-a36b-4cb4f198667d")
 	)
 	(junction
-		(at 168.91 128.27)
+		(at 210.82 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "aa9dd886-c8c3-495a-beb6-3b4dcae703b9")
+		(uuid "a7516332-aabf-4ab0-b1ec-22179d8c17b8")
 	)
 	(junction
-		(at 247.65 189.23)
+		(at 238.76 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ac3fa0aa-4dea-4b21-9794-eba36fb18c8c")
+		(uuid "a99b909e-8f64-4ea4-8822-7731b894e6e7")
 	)
 	(junction
-		(at 240.03 105.41)
+		(at 220.98 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ae081e66-8dd1-4842-85eb-22e3abf1d01b")
+		(uuid "b3d844e5-b2c6-4bbf-9320-8cd1d160c814")
 	)
 	(junction
-		(at 176.53 120.65)
+		(at 246.38 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "af8a30f2-d287-4961-9f30-0d4910790fc3")
+		(uuid "b93eac4a-fe5d-4726-a177-0877d49df22a")
 	)
 	(junction
-		(at 212.09 120.65)
+		(at 256.54 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b1b9301b-bfc7-49ba-8320-860aeae4b75f")
+		(uuid "c3b8a6e3-f4ab-4c96-bd7a-56ec1aed6176")
 	)
 	(junction
-		(at 257.81 128.27)
+		(at 193.04 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b71f6ba5-0ac0-4c8e-9312-9d316a2b1bff")
+		(uuid "c88c77dd-a108-4c73-ae51-79dea6324dbf")
 	)
 	(junction
-		(at 186.69 105.41)
+		(at 193.04 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4e4117a-d7da-4838-a436-bc0dd03d5e1b")
+		(uuid "d5304163-07f6-4ecf-bff4-146a849068b2")
 	)
 	(junction
-		(at 204.47 128.27)
+		(at 238.76 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c99d6a35-027f-4cd0-88c8-1e9bbc068c58")
+		(uuid "ec2b4405-a693-4e66-ba8e-c566cf846415")
 	)
 	(junction
-		(at 176.53 143.51)
+		(at 175.26 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e937c194-ab06-4f07-a95a-7d408892b0d6")
+		(uuid "edd7c4bf-65a4-471d-893d-3ff922462e16")
 	)
 	(junction
-		(at 247.65 143.51)
+		(at 220.98 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ea13f98b-ad00-4ccb-92d9-9e53ac5f8b98")
+		(uuid "f17e57d0-8b3e-4255-aae4-5ddaf5459e15")
 	)
 	(junction
-		(at 194.31 143.51)
+		(at 167.64 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f1f410ff-a28d-4f3b-b6a5-b28b6089337b")
+		(uuid "f8bda81b-b21a-486c-8195-45cb959587ea")
 	)
 	(wire
 		(pts
-			(xy 265.43 120.65) (xy 265.43 118.11)
+			(xy 185.42 149.86) (xy 185.42 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "003e54bf-4699-46ff-9107-9f08f243f984")
+		(uuid "02c1ae07-a8d3-4711-874d-b0b9e49c42ac")
 	)
 	(wire
 		(pts
-			(xy 222.25 173.99) (xy 224.79 173.99)
+			(xy 203.2 149.86) (xy 205.74 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "014c0ea4-e178-4922-80fd-762ea6e24cd4")
+		(uuid "0355e930-d91e-477b-9182-0b3600b70750")
 	)
 	(wire
 		(pts
-			(xy 176.53 120.65) (xy 176.53 118.11)
+			(xy 185.42 149.86) (xy 185.42 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0214d241-1731-4014-9826-bbe85af6db09")
+		(uuid "059693ba-b6b5-4728-8249-c1c24a9bb0aa")
 	)
 	(wire
 		(pts
-			(xy 153.67 143.51) (xy 176.53 143.51)
+			(xy 264.16 142.24) (xy 264.16 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0219937b-9818-4844-9717-d68879e10293")
+		(uuid "05bd2bfe-6254-457b-a46e-ed84c5459efd")
 	)
 	(wire
 		(pts
-			(xy 265.43 189.23) (xy 247.65 189.23)
+			(xy 220.98 149.86) (xy 223.52 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "02b90883-653d-4056-b739-1b182de61ff6")
+		(uuid "0cfd225b-596c-4acb-8ddb-6d328c3a91cb")
 	)
 	(wire
 		(pts
-			(xy 247.65 189.23) (xy 229.87 189.23)
+			(xy 256.54 149.86) (xy 259.08 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0c4bdb2e-2e09-4156-8032-2d9e63ac0c8f")
+		(uuid "11122561-5f9e-4bdf-b7af-bc85179477b9")
 	)
 	(wire
 		(pts
-			(xy 194.31 120.65) (xy 194.31 118.11)
+			(xy 210.82 165.1) (xy 228.6 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e5db8e7-6bf6-414d-a48d-f20eda27cad3")
+		(uuid "11f0a41c-1b6c-4038-8b07-35a7e14a30c2")
 	)
 	(wire
 		(pts
-			(xy 194.31 166.37) (xy 212.09 166.37)
+			(xy 203.2 127) (xy 205.74 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0eb82767-910f-4214-9dcc-f9cdbc204a25")
+		(uuid "18840ea9-c87a-490e-9e22-bdbbab226bfc")
 	)
 	(wire
 		(pts
-			(xy 247.65 143.51) (xy 265.43 143.51)
+			(xy 185.42 127) (xy 185.42 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f13b119-f97d-44db-9e2d-328492f97390")
+		(uuid "209ceee5-b384-4ff2-a780-22f60800a3e3")
 	)
 	(wire
 		(pts
-			(xy 240.03 151.13) (xy 240.03 173.99)
+			(xy 193.04 142.24) (xy 210.82 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "173a3d62-5763-4e07-b008-d839fda2e68f")
+		(uuid "220e2584-cbe9-42d0-9318-13a693316712")
 	)
 	(wire
 		(pts
-			(xy 194.31 120.65) (xy 212.09 120.65)
+			(xy 220.98 149.86) (xy 220.98 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "181edcab-ae62-4717-b412-c68fc223ad43")
+		(uuid "22f00203-2a37-45b7-ad74-cab2fbbb3fd3")
 	)
 	(wire
 		(pts
-			(xy 222.25 128.27) (xy 222.25 105.41)
+			(xy 228.6 165.1) (xy 246.38 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "18b36baa-36a4-4855-80e7-133ec3cabac9")
+		(uuid "231e7023-56b8-4791-bfae-572b931a7a0a")
 	)
 	(wire
 		(pts
-			(xy 257.81 105.41) (xy 260.35 105.41)
+			(xy 152.4 187.96) (xy 175.26 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1acdf6b2-01d6-4f94-b489-2789d2c7db27")
+		(uuid "2775345a-9b33-412c-9552-ae5ae0c04450")
 	)
 	(wire
 		(pts
-			(xy 240.03 151.13) (xy 242.57 151.13)
+			(xy 203.2 149.86) (xy 203.2 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1dd70063-af55-44d9-8ea3-c9b1a2d28a2d")
+		(uuid "32b9cc12-25d0-4d37-a0a3-7cb6f08c92d6")
 	)
 	(wire
 		(pts
-			(xy 204.47 128.27) (xy 204.47 105.41)
+			(xy 210.82 165.1) (xy 210.82 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "20a8b257-34e2-4f7f-8b44-a75df2f2029e")
+		(uuid "342a66ed-de81-4996-9e92-632740422ed2")
 	)
 	(wire
 		(pts
-			(xy 212.09 143.51) (xy 212.09 140.97)
+			(xy 152.4 165.1) (xy 175.26 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "27137938-808a-4c0b-b5ea-a0a6d06b234b")
+		(uuid "3464ee91-1ed2-41c2-9ba4-8c737ea4ecc3")
 	)
 	(wire
 		(pts
-			(xy 204.47 93.98) (xy 204.47 105.41)
+			(xy 167.64 149.86) (xy 167.64 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "27d19ba8-fee4-4837-a726-96bd2eb96ee9")
+		(uuid "3562a1d7-ff55-4255-aec4-42617f5f2f8d")
 	)
 	(wire
 		(pts
-			(xy 212.09 120.65) (xy 212.09 118.11)
+			(xy 246.38 119.38) (xy 264.16 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "28dab6fa-120b-479c-a43b-34a881408f43")
+		(uuid "359c5ac3-f27f-484c-8a30-0d0875cc8f26")
 	)
 	(wire
 		(pts
-			(xy 176.53 120.65) (xy 194.31 120.65)
+			(xy 175.26 187.96) (xy 175.26 185.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2c54e4dc-f484-4b9f-9b20-f29d9ea854a8")
+		(uuid "370acf2b-1a53-4bb4-a023-2479e8cd0f7c")
 	)
 	(wire
 		(pts
-			(xy 168.91 151.13) (xy 171.45 151.13)
+			(xy 210.82 187.96) (xy 210.82 185.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ed9f6a7-2adf-45e3-984c-5b7dbbe94cb5")
+		(uuid "3b8a0ae5-70f7-4319-8360-3e6448b7593b")
 	)
 	(wire
 		(pts
-			(xy 204.47 128.27) (xy 207.01 128.27)
+			(xy 193.04 165.1) (xy 210.82 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ef419da-6986-44c9-bd72-e5d6252aec46")
+		(uuid "44b96600-6693-431b-8ca6-6eca615cc63e")
 	)
 	(wire
 		(pts
-			(xy 186.69 105.41) (xy 189.23 105.41)
+			(xy 238.76 149.86) (xy 238.76 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2f1f3fd8-c7b3-4dd0-87b1-265146fa0f0a")
+		(uuid "45b8d962-285d-4e3d-9a22-da62376db9fc")
 	)
 	(wire
 		(pts
-			(xy 168.91 105.41) (xy 171.45 105.41)
+			(xy 238.76 149.86) (xy 241.3 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ff8ffd1-36f3-4dcf-8634-0f5d3f31fa13")
+		(uuid "45cca583-ce17-4e18-9806-bcdfb1672e07")
 	)
 	(wire
 		(pts
-			(xy 257.81 151.13) (xy 257.81 128.27)
+			(xy 175.26 165.1) (xy 175.26 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "33defe8d-1c8f-494c-b769-b141051bc165")
+		(uuid "474485a7-05a4-41ea-8541-bbd108af6081")
 	)
 	(wire
 		(pts
-			(xy 186.69 93.98) (xy 186.69 105.41)
+			(xy 203.2 104.14) (xy 205.74 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "392edbef-e594-40d9-9028-66921831d447")
+		(uuid "5823d902-d2c9-4bf6-947b-c93aea8f41aa")
 	)
 	(wire
 		(pts
-			(xy 176.53 166.37) (xy 194.31 166.37)
+			(xy 210.82 142.24) (xy 210.82 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "40079c1b-f562-4417-b69f-5a7954d69adb")
+		(uuid "594c5912-b2ee-4959-b234-131d97945d98")
 	)
 	(wire
 		(pts
-			(xy 229.87 120.65) (xy 229.87 118.11)
+			(xy 175.26 142.24) (xy 193.04 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "416d8f11-f4ce-45de-8521-0134610a3b56")
+		(uuid "5aebbca6-b8f5-4aac-8940-f50b9bdd8f3c")
 	)
 	(wire
 		(pts
-			(xy 222.25 151.13) (xy 222.25 173.99)
+			(xy 246.38 142.24) (xy 264.16 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "453c9c12-8ce8-41dd-82d2-e8c92b0f2e51")
+		(uuid "5cabf9d9-bcf7-4f75-8d62-75f98ea86630")
 	)
 	(wire
 		(pts
-			(xy 229.87 143.51) (xy 247.65 143.51)
+			(xy 246.38 165.1) (xy 246.38 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4ae4eb1f-d82f-4c0d-8bff-6d69c5c14a8c")
+		(uuid "5cb412cb-96f9-4227-8759-cf4d12641f16")
 	)
 	(wire
 		(pts
-			(xy 168.91 93.98) (xy 168.91 105.41)
+			(xy 193.04 187.96) (xy 193.04 185.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5c788eb8-a006-45b9-a7ce-eee3004ce5d4")
+		(uuid "62fcca47-1525-4491-b67c-75e9a36f404b")
 	)
 	(wire
 		(pts
-			(xy 247.65 143.51) (xy 247.65 140.97)
+			(xy 220.98 104.14) (xy 223.52 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5e420d6f-7131-49d9-85f1-ba5c4ee220fd")
+		(uuid "67bdc159-032e-41ad-a1b9-9f5c2aa94874")
 	)
 	(wire
 		(pts
-			(xy 229.87 120.65) (xy 247.65 120.65)
+			(xy 152.4 119.38) (xy 175.26 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5e4e0bdf-2649-4d7d-9f91-25084b4521a3")
+		(uuid "6862ae4f-4228-4927-810e-d4fdfb4467e0")
 	)
 	(wire
 		(pts
-			(xy 229.87 143.51) (xy 229.87 140.97)
+			(xy 246.38 119.38) (xy 246.38 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "648fe5d5-b2ee-4bbc-900d-eb3caaafc8c8")
+		(uuid "69cffa35-3464-4b93-b984-166e85850edb")
 	)
 	(wire
 		(pts
-			(xy 240.03 105.41) (xy 242.57 105.41)
+			(xy 185.42 92.71) (xy 185.42 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "66cce04e-1ef6-42d3-8627-dac03e0216c4")
+		(uuid "6d1bf255-4946-4357-8189-ad28ff081199")
 	)
 	(wire
 		(pts
-			(xy 176.53 143.51) (xy 194.31 143.51)
+			(xy 210.82 142.24) (xy 228.6 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "66f665fc-5d01-4ef9-8f75-3a8795b0db96")
+		(uuid "741aa8a1-0568-4027-a85d-16ba9e49aee9")
 	)
 	(wire
 		(pts
-			(xy 186.69 128.27) (xy 186.69 105.41)
+			(xy 167.64 149.86) (xy 170.18 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b124ac8-44ab-4036-802c-d07cf215c5e5")
+		(uuid "7680ea42-8a83-47d2-b655-59b1e95e7355")
 	)
 	(wire
 		(pts
-			(xy 186.69 128.27) (xy 189.23 128.27)
+			(xy 175.26 165.1) (xy 193.04 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e0ceb31-ba8c-4630-b835-e44a722da086")
+		(uuid "831aba2a-d669-42d2-a523-1e3edecd6f51")
 	)
 	(wire
 		(pts
-			(xy 240.03 128.27) (xy 242.57 128.27)
+			(xy 220.98 127) (xy 223.52 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6ef76469-d2ee-4e67-9b1c-07ea4aa9c097")
+		(uuid "845bb62b-19d2-4cb8-bc96-bf4890ca1908")
 	)
 	(wire
 		(pts
-			(xy 212.09 166.37) (xy 212.09 163.83)
+			(xy 238.76 127) (xy 238.76 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7512b5fd-8ef6-4496-8c62-3af87d3cec2b")
+		(uuid "86b3a405-8960-410d-970e-4a94ce914f30")
 	)
 	(wire
 		(pts
-			(xy 212.09 166.37) (xy 229.87 166.37)
+			(xy 210.82 119.38) (xy 210.82 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "811df5f3-d060-4fab-b572-06b44e6a6507")
+		(uuid "88dd7eb7-28a0-4ea3-9200-1359c07373d7")
 	)
 	(wire
 		(pts
-			(xy 212.09 143.51) (xy 229.87 143.51)
+			(xy 203.2 127) (xy 203.2 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "819dffeb-8a34-4444-9cae-624ac47e89a4")
+		(uuid "894d5f1e-be61-4734-97cf-d1e5e434ae09")
 	)
 	(wire
 		(pts
-			(xy 229.87 166.37) (xy 247.65 166.37)
+			(xy 246.38 165.1) (xy 264.16 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "81b28edd-f4db-4381-8400-e4cf63d7af44")
+		(uuid "8b3cf6de-8124-4472-a11f-298227a90963")
 	)
 	(wire
 		(pts
-			(xy 176.53 143.51) (xy 176.53 140.97)
+			(xy 256.54 127) (xy 259.08 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "89e79d6a-aac5-4428-a471-bd2c2ccae5ec")
+		(uuid "8c71cc1a-4c8a-422c-abdb-d690864fdfd8")
 	)
 	(wire
 		(pts
-			(xy 247.65 166.37) (xy 247.65 163.83)
+			(xy 228.6 119.38) (xy 228.6 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8d15ff0d-5c2c-4a1c-9843-50df2db12e46")
+		(uuid "8d263f8b-9109-406c-9064-f23e5df12a07")
 	)
 	(wire
 		(pts
-			(xy 240.03 93.98) (xy 240.03 105.41)
+			(xy 167.64 172.72) (xy 170.18 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8d797d4a-439b-4969-a8f6-448ca305d68b")
+		(uuid "926ab849-b84d-4e3e-bc69-951b2ec5b2c1")
 	)
 	(wire
 		(pts
-			(xy 229.87 166.37) (xy 229.87 163.83)
+			(xy 264.16 119.38) (xy 264.16 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "939d2c94-4d3f-470f-94a3-dbed0457aed7")
+		(uuid "945530e0-0b5a-4b9c-9bb8-40d2753b2ea3")
 	)
 	(wire
 		(pts
-			(xy 240.03 173.99) (xy 242.57 173.99)
+			(xy 238.76 92.71) (xy 238.76 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "96b5be91-0bc6-436a-aaeb-7e85b1bba083")
+		(uuid "96fed075-0279-400a-a935-a12d55ea70d6")
 	)
 	(wire
 		(pts
-			(xy 186.69 151.13) (xy 189.23 151.13)
+			(xy 238.76 104.14) (xy 241.3 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9bb09181-92da-4eba-9ba4-69ca290ef8b4")
+		(uuid "9729262f-2985-4067-8872-c000895fabdb")
 	)
 	(wire
 		(pts
-			(xy 265.43 143.51) (xy 265.43 140.97)
+			(xy 228.6 142.24) (xy 228.6 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9d754c0a-2232-48c1-808a-3136cefbb925")
+		(uuid "98446ca4-a52f-480c-9ce3-1bf969a5e22a")
 	)
 	(wire
 		(pts
-			(xy 265.43 166.37) (xy 265.43 163.83)
+			(xy 175.26 187.96) (xy 193.04 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a3060b63-4460-46a5-baac-6e1ca7fc946e")
+		(uuid "9a5ca311-5209-48af-8bcf-6d0c723f0e15")
 	)
 	(wire
 		(pts
-			(xy 194.31 143.51) (xy 194.31 140.97)
+			(xy 167.64 104.14) (xy 170.18 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a4b5df3e-a893-47f0-a06b-04f5d4e274f6")
+		(uuid "9b2db0c0-32ae-4287-aa92-c435cf0e54a5")
 	)
 	(wire
 		(pts
-			(xy 257.81 128.27) (xy 257.81 105.41)
+			(xy 175.26 142.24) (xy 175.26 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a86b0675-873e-4ee8-80d8-028e655e618c")
+		(uuid "a18e6a92-c58b-4621-8e7f-2e970e413b70")
 	)
 	(wire
 		(pts
-			(xy 257.81 151.13) (xy 260.35 151.13)
+			(xy 193.04 165.1) (xy 193.04 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aab9bd51-b376-4e72-b129-10bfd346ef6d")
+		(uuid "a29939aa-a563-45c1-9b55-c90bc1f2e658")
 	)
 	(wire
 		(pts
-			(xy 153.67 189.23) (xy 229.87 189.23)
+			(xy 256.54 92.71) (xy 256.54 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "abf9e56a-3767-4d7b-b4d6-52aa25b78957")
+		(uuid "a3c20255-d796-4d67-8702-0ab7c5dcfa37")
 	)
 	(wire
 		(pts
-			(xy 194.31 166.37) (xy 194.31 163.83)
+			(xy 193.04 142.24) (xy 193.04 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "adfb8c56-0d02-4a80-8ae1-6b9bfa7c5883")
+		(uuid "a5053a35-f352-4c6b-b9c5-abc40da1526c")
 	)
 	(wire
 		(pts
-			(xy 257.81 128.27) (xy 260.35 128.27)
+			(xy 167.64 149.86) (xy 167.64 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b4eb8344-04b5-44e5-9888-f642dbd33875")
+		(uuid "a7b4946c-1502-46dc-a80b-72741282424d")
 	)
 	(wire
 		(pts
-			(xy 247.65 120.65) (xy 265.43 120.65)
+			(xy 238.76 127) (xy 241.3 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6e656a3-befe-4a87-891e-6c0ec05787fd")
+		(uuid "a8898433-97d9-4135-831e-7c739dc48025")
 	)
 	(wire
 		(pts
-			(xy 257.81 173.99) (xy 260.35 173.99)
+			(xy 193.04 119.38) (xy 210.82 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "baa17b0b-e007-4ce9-a986-09a130bb1035")
+		(uuid "ad3bff8f-989f-469d-aa4b-2edb3aa4576f")
 	)
 	(wire
 		(pts
-			(xy 257.81 151.13) (xy 257.81 173.99)
+			(xy 193.04 187.96) (xy 210.82 187.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c3243802-d041-459a-9a46-33d3f42f55d3")
+		(uuid "aee4e25a-9dae-43c2-974b-5172bc9d07c1")
 	)
 	(wire
 		(pts
-			(xy 168.91 128.27) (xy 168.91 105.41)
+			(xy 203.2 172.72) (xy 205.74 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4e29563-6e57-48e1-8485-7ed4cb78c41e")
+		(uuid "aff14eaf-36cb-4f72-a304-52b15afd2d92")
 	)
 	(wire
 		(pts
-			(xy 229.87 189.23) (xy 229.87 186.69)
+			(xy 167.64 127) (xy 170.18 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c7b7a2b6-b5d7-4e4b-ae68-9cc8e086c9ed")
+		(uuid "b2ea2a0e-9b8c-41e4-abe2-945ae88ffd22")
 	)
 	(wire
 		(pts
-			(xy 186.69 151.13) (xy 186.69 128.27)
+			(xy 175.26 119.38) (xy 193.04 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cdd95ad5-34df-4319-9a0e-2dbacbbec103")
+		(uuid "b65cb3a0-7a81-4dde-a4bb-b3b94b396fa3")
 	)
 	(wire
 		(pts
-			(xy 265.43 189.23) (xy 265.43 186.69)
+			(xy 185.42 127) (xy 187.96 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d09181ef-bc22-4b02-8e61-6e1073924114")
+		(uuid "b7cfd746-5d8b-46ed-94ab-3e4d900b6f48")
 	)
 	(wire
 		(pts
-			(xy 194.31 143.51) (xy 212.09 143.51)
+			(xy 256.54 104.14) (xy 259.08 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d0adb516-da43-4dfb-bc57-069908272faf")
+		(uuid "ba54ffa6-73c6-4e0f-8ebd-b50239bba40e")
 	)
 	(wire
 		(pts
-			(xy 222.25 128.27) (xy 224.79 128.27)
+			(xy 228.6 142.24) (xy 246.38 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1c97a8f-ef36-4351-bffb-5cd2e4bf3f06")
+		(uuid "be47eb4a-03ca-4067-950b-d6b28951e212")
 	)
 	(wire
 		(pts
-			(xy 204.47 151.13) (xy 204.47 128.27)
+			(xy 185.42 149.86) (xy 187.96 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d3d94673-cab0-4f32-9167-5313157a0f49")
+		(uuid "bf2e16ba-831c-484a-9f3a-23205a8fa2d1")
 	)
 	(wire
 		(pts
-			(xy 247.65 120.65) (xy 247.65 118.11)
+			(xy 175.26 119.38) (xy 175.26 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d87b024a-c9ca-4a8e-b908-f275fbd71570")
+		(uuid "c0d7faf0-dd2f-4a37-a896-46da9729ec14")
 	)
 	(wire
 		(pts
-			(xy 222.25 105.41) (xy 224.79 105.41)
+			(xy 246.38 142.24) (xy 246.38 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d9911069-69c6-442a-b8e3-419ffdce29ca")
+		(uuid "c4cde918-9b92-4b79-add4-d13daeff1ca1")
 	)
 	(wire
 		(pts
-			(xy 176.53 166.37) (xy 176.53 163.83)
+			(xy 193.04 119.38) (xy 193.04 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "da6f02e5-a4fb-4f10-832e-ee1e2f7d8da9")
+		(uuid "ccf16f4f-81ea-4d60-b8dc-0ea0b857524b")
 	)
 	(wire
 		(pts
-			(xy 240.03 128.27) (xy 240.03 105.41)
+			(xy 152.4 142.24) (xy 175.26 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dab91e49-bfdf-444f-8ef7-bbb1462f8d52")
+		(uuid "d5348524-9eb6-495d-b33f-556352460eb5")
 	)
 	(wire
 		(pts
-			(xy 222.25 151.13) (xy 222.25 128.27)
+			(xy 203.2 149.86) (xy 203.2 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dabdc097-e937-42ae-b1b9-434d2e5dfc20")
+		(uuid "d6a803f6-bb1d-463e-8a89-f834c64d035d")
 	)
 	(wire
 		(pts
-			(xy 168.91 151.13) (xy 168.91 128.27)
+			(xy 167.64 92.71) (xy 167.64 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dd94e60e-e1d8-4895-8176-ee1c2efcc147")
+		(uuid "d768f534-87e1-4f8e-a807-6a6137b7e4a7")
 	)
 	(wire
 		(pts
-			(xy 247.65 166.37) (xy 265.43 166.37)
+			(xy 228.6 119.38) (xy 246.38 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e280e96a-dbbd-4f4c-afeb-d0c26cea9263")
+		(uuid "d8987d3b-01eb-4d40-afcf-703e2262d22c")
 	)
 	(wire
 		(pts
-			(xy 204.47 105.41) (xy 207.01 105.41)
+			(xy 220.98 92.71) (xy 220.98 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e4803a50-b49a-4382-ad3c-49c1fa5ea8c3")
+		(uuid "e2337fdc-1884-489e-98ed-2a866f72cf7a")
 	)
 	(wire
 		(pts
-			(xy 168.91 128.27) (xy 171.45 128.27)
+			(xy 185.42 172.72) (xy 187.96 172.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e6ca71ab-f16b-423b-a330-3780f2bc07e0")
+		(uuid "e23b23cf-041c-49e1-883f-ae364c9d8c04")
 	)
 	(wire
 		(pts
-			(xy 247.65 189.23) (xy 247.65 186.69)
+			(xy 264.16 165.1) (xy 264.16 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e845d0ba-a473-4157-aae4-a4b91ffe6e69")
+		(uuid "e518d436-1fa2-4550-8a53-fb80a55159ec")
 	)
 	(wire
 		(pts
-			(xy 212.09 120.65) (xy 229.87 120.65)
+			(xy 210.82 119.38) (xy 228.6 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e8ae8629-6abc-42c9-ae96-17faa36d0b3d")
+		(uuid "e81a1bf4-428b-4a97-89a8-7f590c00afc5")
 	)
 	(wire
 		(pts
-			(xy 240.03 151.13) (xy 240.03 128.27)
+			(xy 167.64 127) (xy 167.64 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ee1a2b8d-acc9-4924-ad2c-dfbe726786a2")
+		(uuid "e92d11db-0911-4cad-a82d-aa3dce37fb2f")
 	)
 	(wire
 		(pts
-			(xy 153.67 166.37) (xy 176.53 166.37)
+			(xy 256.54 149.86) (xy 256.54 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ef599b10-fa40-4dbb-aaf5-27ed446789c9")
+		(uuid "ec661cc6-83a7-46c8-ac77-975e32b38c72")
 	)
 	(wire
 		(pts
-			(xy 204.47 151.13) (xy 207.01 151.13)
+			(xy 228.6 165.1) (xy 228.6 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f13d2760-99b2-4ff4-bf2e-7827469c6cfd")
+		(uuid "f281ef64-ecf4-402d-9b85-933a681a84c6")
 	)
 	(wire
 		(pts
-			(xy 153.67 120.65) (xy 176.53 120.65)
+			(xy 256.54 127) (xy 256.54 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f14928b5-6443-4e0c-9354-e8a509373785")
+		(uuid "f4755c20-4538-4dc7-81a9-688745083c0d")
 	)
 	(wire
 		(pts
-			(xy 222.25 151.13) (xy 224.79 151.13)
+			(xy 185.42 104.14) (xy 187.96 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f6f3f47f-0454-440f-92d4-d40761eebb37")
+		(uuid "f50bf503-086d-4bec-9198-b34c9bfc3341")
 	)
 	(wire
 		(pts
-			(xy 257.81 93.98) (xy 257.81 105.41)
+			(xy 203.2 92.71) (xy 203.2 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fb6d2443-d003-4ea6-9f5c-c789185fad59")
+		(uuid "fa41f97a-d5a9-42b3-be47-3e5302922bbd")
 	)
 	(wire
 		(pts
-			(xy 222.25 93.98) (xy 222.25 105.41)
+			(xy 220.98 127) (xy 220.98 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fbdafc5a-2e11-4c06-8c87-4827be195c37")
-	)
-	(hierarchical_label "COL1"
-		(shape input)
-		(at 186.69 93.98 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "20db9765-d03b-42f5-90cc-9bfbfadd107b")
-	)
-	(hierarchical_label "ROW2"
-		(shape output)
-		(at 153.67 166.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "22fb6dd2-6192-4f4b-8c8e-b3c8683037d4")
-	)
-	(hierarchical_label "COL4"
-		(shape input)
-		(at 240.03 93.98 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "4440cea2-9774-4cc0-b7fc-a07857a8ec1c")
+		(uuid "ff2b929e-7934-4a62-b87a-9054492869bb")
 	)
 	(hierarchical_label "ROW0"
 		(shape output)
-		(at 153.67 120.65 180)
+		(at 152.4 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1461,24 +1422,11 @@
 			)
 			(justify right)
 		)
-		(uuid "48705693-d4ea-4b52-bfc7-7279eeea4ea1")
-	)
-	(hierarchical_label "COL5"
-		(shape input)
-		(at 257.81 93.98 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left)
-		)
-		(uuid "60641c0d-381f-43e9-b9bc-d4c54ab4324e")
+		(uuid "0e784697-08c5-4af7-a324-14eca80de422")
 	)
 	(hierarchical_label "COL0"
 		(shape input)
-		(at 168.91 93.98 90)
+		(at 167.64 92.71 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1487,11 +1435,11 @@
 			)
 			(justify left)
 		)
-		(uuid "7c437d88-c61a-40bd-b053-2ee37ebe68f8")
+		(uuid "3e71d056-92ae-4366-9393-5cd860d470e2")
 	)
 	(hierarchical_label "COL3"
 		(shape input)
-		(at 222.25 93.98 90)
+		(at 220.98 92.71 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1500,24 +1448,11 @@
 			)
 			(justify left)
 		)
-		(uuid "9bbde07f-acb2-42c2-8efe-83e34f0b2b6f")
-	)
-	(hierarchical_label "ROW3"
-		(shape output)
-		(at 153.67 189.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "d2626d82-cbdc-413f-a8f0-1b40fc80e220")
+		(uuid "5b9a64eb-58b7-46ba-86c8-c683bb886c45")
 	)
 	(hierarchical_label "ROW1"
 		(shape output)
-		(at 153.67 143.51 180)
+		(at 152.4 142.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1526,11 +1461,11 @@
 			)
 			(justify right)
 		)
-		(uuid "d5310ff6-c58b-47db-a6b0-6e11e932ac40")
+		(uuid "72779b83-29e9-4939-a9b5-84f7c10db861")
 	)
-	(hierarchical_label "COL2"
+	(hierarchical_label "COL5"
 		(shape input)
-		(at 204.47 93.98 90)
+		(at 256.54 92.71 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1539,36 +1474,103 @@
 			)
 			(justify left)
 		)
-		(uuid "df065c38-7a4a-4988-bdbc-699ab9f0e32b")
+		(uuid "748219ee-d962-425a-97a3-9a8f0708a26c")
+	)
+	(hierarchical_label "ROW2"
+		(shape output)
+		(at 152.4 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "85997ac8-08c9-4248-aa22-78f2926a332b")
+	)
+	(hierarchical_label "COL2"
+		(shape input)
+		(at 203.2 92.71 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ac62fd97-7577-4230-9513-9eb5827bf42b")
+	)
+	(hierarchical_label "ROW3"
+		(shape output)
+		(at 152.4 187.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "c0b8346b-c9d5-4f16-9b27-f48da13359e4")
+	)
+	(hierarchical_label "COL1"
+		(shape input)
+		(at 185.42 92.71 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d1a5f861-689f-4ccc-a548-1731f1579182")
+	)
+	(hierarchical_label "COL4"
+		(shape input)
+		(at 238.76 92.71 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "fb31ea89-96e6-4e2b-849a-afde08cd22c9")
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 209.55 107.95 0)
+		(lib_id "Device:D")
+		(at 175.26 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "034b1747-dedf-43cf-a2dd-3e4d6d66a42e")
-		(property "Reference" "MX24"
-			(at 209.55 100.33 0)
+		(uuid "026e1cd2-ce04-4331-8f5a-eba15ef1cbea")
+		(property "Reference" "D4"
+			(at 177.8 111.7599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "W"
-			(at 209.55 102.87 0)
+		(property "Value" "D"
+			(at 177.8 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 107.95 0)
+			(at 175.26 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1579,7 +1581,573 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 107.95 0)
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 175.26 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4d2cfa6b-26aa-4928-9fac-2305f74edfad")
+		)
+		(pin "1"
+			(uuid "da1841ec-88db-4eff-b814-76a434835870")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 193.04 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07fd6df9-39a1-4a3c-9e9a-3e263da1172c")
+		(property "Reference" "D11"
+			(at 195.58 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 195.58 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 193.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "51936a5e-5e2a-4673-973e-ff52a8bd3b53")
+		)
+		(pin "1"
+			(uuid "e4df5032-c4d6-40df-a42c-bc8c700bf3ac")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 193.04 158.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b4bcfe3-aade-42e0-8e04-5c072958cb75")
+		(property "Reference" "D17"
+			(at 195.58 157.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 195.58 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0db64650-67d1-4c6b-a5d5-69c46f10fc2a")
+		)
+		(pin "1"
+			(uuid "217eb610-0ece-475c-aab1-ff04ad98b4c3")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 246.38 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c0d106f-918f-46f2-b672-006566fece19")
+		(property "Reference" "D8"
+			(at 248.92 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 248.92 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e14b781a-dd01-48d7-be2a-92b707eb6e9d")
+		)
+		(pin "1"
+			(uuid "a8b1e009-a1a9-4912-bc25-0f4fc18bf1f7")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 226.06 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "200fa067-1cf2-4382-b479-5926354910e1")
+		(property "Reference" "MX16"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ". >"
+			(at 226.06 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1590,7 +2158,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 209.55 107.95 0)
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1601,7 +2169,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 209.55 107.95 0)
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1612,7 +2180,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 209.55 107.95 0)
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,7 +2191,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 209.55 107.95 0)
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1634,7 +2202,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 209.55 107.95 0)
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,15 +2213,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "221c02e3-8521-4c55-a91e-2daedbc514a0")
+			(uuid "c99390a4-721f-4e19-95a0-50f2ba5b9cd9")
 		)
 		(pin "1"
-			(uuid "e6ceaff8-280a-4fa8-92f3-5c124b3fd1fa")
+			(uuid "9663541f-e639-4f6c-8d43-43f1a19e100c")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX24")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX16")
 					(unit 1)
 				)
 			)
@@ -1661,16 +2229,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 265.43 160.02 90)
+		(at 264.16 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0a15d53a-e827-486f-9cd9-9f2afc77f912")
-		(property "Reference" "D43"
-			(at 267.97 158.7499 90)
+		(uuid "26fb718a-433c-421a-b2f8-eb4f3293e6c2")
+		(property "Reference" "D21"
+			(at 266.7 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1679,7 +2247,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 267.97 161.2899 90)
+			(at 266.7 160.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1688,7 +2256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,7 +2267,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1710,7 +2278,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1721,7 +2289,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1732,7 +2300,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1743,7 +2311,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1754,7 +2322,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,7 +2333,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1776,7 +2344,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 265.43 160.02 0)
+			(at 264.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,157 +2355,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "2fd30057-9672-456a-885d-12f3dc30f7a1")
+			(uuid "9e5b4999-8d1c-480a-ab25-64b8d998af42")
 		)
 		(pin "1"
-			(uuid "e0561a8a-5d67-45cd-9d7d-822916cf110a")
+			(uuid "302aa173-d343-4950-a346-3bef7eff54b6")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 247.65 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0beb6012-e8e5-41c1-a108-a85c4c4be481")
-		(property "Reference" "D36"
-			(at 250.19 135.8899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 250.19 138.4299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 247.65 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "078f5a1e-503e-44d2-9633-cd117a6fd6a2")
-		)
-		(pin "1"
-			(uuid "5a2a1c38-6710-44bd-b546-4ab432ea89fa")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D36")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -1945,24 +2371,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 262.89 153.67 0)
+		(at 172.72 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "10755326-e0cb-479f-9bfe-66a3b5f2f853")
-		(property "Reference" "MX39"
-			(at 262.89 146.05 0)
+		(uuid "28849e5e-708e-41cf-a141-bdc16bdcbda2")
+		(property "Reference" "MX7"
+			(at 172.72 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "B"
-			(at 262.89 148.59 0)
+		(property "Value" "H"
+			(at 172.72 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1970,7 +2396,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1981,7 +2407,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1992,7 +2418,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2429,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,7 +2440,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2025,7 +2451,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2036,7 +2462,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 262.89 153.67 0)
+			(at 172.72 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2047,441 +2473,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d72b1d70-80da-4b04-982c-6e41e87297ae")
+			(uuid "34b9f56d-2401-44a1-9404-3c920d917412")
 		)
 		(pin "1"
-			(uuid "3a04be3e-5e53-4b11-9498-86fd9ceba754")
+			(uuid "53e2d1ef-070d-436a-9245-43e0d3f0877a")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 265.43 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10aff86e-8ca6-4273-add8-f7ce4392be5a")
-		(property "Reference" "D31"
-			(at 267.97 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 265.43 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "546a4ac1-686b-4d12-91f1-e400ea5955e6")
-		)
-		(pin "1"
-			(uuid "1650123c-e605-435e-be9a-36303d9ac597")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 194.31 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "115fc7c5-27f0-4add-a5f1-93dcecdc3402")
-		(property "Reference" "D27"
-			(at 196.85 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 196.85 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 194.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "abe36222-a9ab-401f-a233-07321a1de179")
-		)
-		(pin "1"
-			(uuid "36575627-f9ed-4419-985f-0fe1fcbd2a9c")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 212.09 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "124ee9a6-4c9d-4269-af45-461c5b2ca800")
-		(property "Reference" "D34"
-			(at 214.63 135.8899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 214.63 138.4299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 212.09 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5f7603c2-35ca-451a-a8e0-cb93a1ada82d")
-		)
-		(pin "1"
-			(uuid "62bf4e7a-3d52-49f1-822d-43cbf5f67e45")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D34")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX7")
 					(unit 1)
 				)
 			)
@@ -2489,24 +2489,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 227.33 107.95 0)
+		(at 208.28 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "177384f7-049b-4647-b443-5d7c69112b1c")
-		(property "Reference" "MX25"
-			(at 227.33 100.33 0)
+		(uuid "3207a5d2-5a9b-4b9c-8ffd-4f0d3cc9cc93")
+		(property "Reference" "MX3"
+			(at 208.28 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "E"
-			(at 227.33 102.87 0)
+		(property "Value" "I"
+			(at 208.28 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2514,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2525,7 +2525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2536,7 +2536,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2547,7 +2547,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2558,7 +2558,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2569,7 +2569,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2580,7 +2580,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 227.33 107.95 0)
+			(at 208.28 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2591,157 +2591,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "083a9eca-f4a5-4a63-92e7-e2929fed2f9d")
+			(uuid "f71c9065-40de-4f7d-901e-d8e0742a1b55")
 		)
 		(pin "1"
-			(uuid "25da9910-534c-4422-880a-faa02ad4ba01")
+			(uuid "21a1dff3-7a7d-47d3-8061-199369f7c00e")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 229.87 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a9bc929-df99-4250-a77b-ff9536232802")
-		(property "Reference" "D35"
-			(at 232.41 135.8899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 232.41 138.4299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 229.87 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c480e2c3-4d5d-4a52-84c1-5f920bf305d8")
-		)
-		(pin "1"
-			(uuid "ad394d30-2c92-4323-a413-7fa4f2955e0a")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D35")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX3")
 					(unit 1)
 				)
 			)
@@ -2749,24 +2607,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 262.89 107.95 0)
+		(at 172.72 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1aa5a5bd-787d-4fc9-8217-bd5d31c2445c")
-		(property "Reference" "MX27"
-			(at 262.89 100.33 0)
+		(uuid "3a61dcf6-b0b4-4ed9-ac35-293d25f1b49c")
+		(property "Reference" "MX1"
+			(at 172.72 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "T"
-			(at 262.89 102.87 0)
+		(property "Value" "Y"
+			(at 172.72 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2774,7 +2632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2785,7 +2643,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2796,7 +2654,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2665,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2818,7 +2676,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2829,7 +2687,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2840,7 +2698,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 262.89 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,15 +2709,157 @@
 			)
 		)
 		(pin "2"
-			(uuid "52a94076-82e1-4086-b8a3-056b4036d58a")
+			(uuid "3b9b61af-ec0b-4595-9889-93bd46011908")
 		)
 		(pin "1"
-			(uuid "894ca86f-986d-4130-8e21-380fcaeb00cb")
+			(uuid "fe00147c-f66b-4a3e-ae4d-d8bcfc253484")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX27")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 210.82 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b49bfd7-d028-4930-ab0b-bba709e474bf")
+		(property "Reference" "D6"
+			(at 213.36 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 213.36 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a5dbd733-2f36-4cf4-8c28-7f88dcf5de74")
+		)
+		(pin "1"
+			(uuid "4edcf770-8f40-4970-ab1b-3829ec8bb9e5")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -2867,16 +2867,370 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 227.33 176.53 0)
+		(at 243.84 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1e206ccc-dbd5-4756-8508-4ac2eacb22c7")
-		(property "Reference" "MX40"
-			(at 227.33 168.91 0)
+		(uuid "47fdfdc4-fada-40ce-af2f-3a342157ad69")
+		(property "Reference" "MX5"
+			(at 243.84 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "P"
+			(at 243.84 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 243.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "662a77ac-506c-4a16-996d-edafe3f0eee4")
+		)
+		(pin "1"
+			(uuid "4f6ba448-38c4-4fb9-bb70-790565df8f4a")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 226.06 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e8ac52e-8486-4da9-a3cc-b2d7d90d65eb")
+		(property "Reference" "MX4"
+			(at 226.06 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "O"
+			(at 226.06 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 226.06 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4296b6d9-d16f-46da-a8ee-4df2e774c4d3")
+		)
+		(pin "1"
+			(uuid "bf354917-c825-4696-8019-bf0de3a393fb")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 190.5 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f13a958-2925-4cd6-ab89-c8eb22e50ee8")
+		(property "Reference" "MX14"
+			(at 190.5 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "M"
+			(at 190.5 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 190.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "610c3a9c-97f9-4bbe-b43e-54cbff900194")
+		)
+		(pin "1"
+			(uuid "25f964bf-78d0-440f-8795-d1d1e229498a")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 208.28 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fc505b1-9ad4-4aa9-92f7-7c0e7090613a")
+		(property "Reference" "MX21"
+			(at 208.28 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2884,7 +3238,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 227.33 171.45 0)
+			(at 208.28 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2892,7 +3246,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2903,7 +3257,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2914,7 +3268,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2925,7 +3279,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +3290,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +3301,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2958,7 +3312,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 227.33 176.53 0)
+			(at 208.28 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,15 +3323,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "bd714a7d-d796-439f-a61f-eec5218ba49c")
+			(uuid "cf8c8f99-3043-4800-b494-89e96008a58f")
 		)
 		(pin "1"
-			(uuid "c93be76d-44dd-4843-b65a-15e06683c35c")
+			(uuid "1468ff73-2330-48db-bf14-5f1245c956cb")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX40")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX21")
 					(unit 1)
 				)
 			)
@@ -2985,24 +3339,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 191.77 153.67 0)
+		(at 190.5 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2772dc29-b2fa-4fa4-9e3d-6206fef0c8ae")
-		(property "Reference" "MX35"
-			(at 191.77 146.05 0)
+		(uuid "6422f97b-c86d-4a1b-a826-0240e14de648")
+		(property "Reference" "MX8"
+			(at 190.5 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Z"
-			(at 191.77 148.59 0)
+		(property "Value" "J"
+			(at 190.5 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +3364,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3021,7 +3375,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3032,7 +3386,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3043,7 +3397,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3054,7 +3408,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3065,7 +3419,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3076,7 +3430,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 191.77 153.67 0)
+			(at 190.5 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3087,15 +3441,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "2134c103-ae48-4aa1-9cfe-412d82ff48c4")
+			(uuid "1aa0fdf8-e441-4ff4-829d-87d37b30c1c5")
 		)
 		(pin "1"
-			(uuid "94c16bac-16de-4abd-bddb-533ed8c85284")
+			(uuid "94ed3368-4f29-4c8e-a596-43109b965447")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX35")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX8")
 					(unit 1)
 				)
 			)
@@ -3103,16 +3457,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 245.11 176.53 0)
+		(at 190.5 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2b445c36-57cc-4705-a138-b382e1ff2f10")
-		(property "Reference" "MX41"
-			(at 245.11 168.91 0)
+		(uuid "6aa688ec-ed0a-4dd2-bdf9-ed718911d8cd")
+		(property "Reference" "MX20"
+			(at 190.5 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3120,7 +3474,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 245.11 171.45 0)
+			(at 190.5 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,7 +3482,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3139,7 +3493,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3150,7 +3504,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3161,7 +3515,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3172,7 +3526,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3183,7 +3537,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3194,7 +3548,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 245.11 176.53 0)
+			(at 190.5 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3205,50 +3559,48 @@
 			)
 		)
 		(pin "2"
-			(uuid "98a1a5cb-98fa-44c2-a8d7-e9c534f7a613")
+			(uuid "00103d2f-8ab7-4b3b-9c7f-51baf1533616")
 		)
 		(pin "1"
-			(uuid "155f2c1f-fae7-4b3c-9839-298c2d5a3268")
+			(uuid "a624dbab-7ccc-46e1-bfb5-083f2b9834a9")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX41")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX20")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 265.43 182.88 90)
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2ce959be-ac38-4f31-8111-5dd3526037a6")
-		(property "Reference" "D46"
-			(at 267.97 181.6099 90)
+		(uuid "6bf650c3-e058-48da-920d-0977801c1e96")
+		(property "Reference" "MX12"
+			(at 261.62 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 267.97 184.1499 90)
+		(property "Value" "' \""
+			(at 261.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 182.88 0)
+			(at 261.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3259,7 +3611,127 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 265.43 182.88 0)
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "16ddca1c-c33c-4874-a14d-01df73ee76c9")
+		)
+		(pin "1"
+			(uuid "6386bd4e-a9f6-4638-8567-7bdbc9c68d57")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 264.16 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "748fd9b4-9940-4a25-a946-d57b0eb50a0b")
+		(property "Reference" "D15"
+			(at 266.7 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3270,7 +3742,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3281,7 +3753,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3292,7 +3764,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3303,7 +3775,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3314,7 +3786,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3325,7 +3797,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3336,7 +3808,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 265.43 182.88 0)
+			(at 264.16 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3347,15 +3819,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "822e90cb-154d-40e9-bbaa-298be2e30e44")
+			(uuid "4b095705-8700-4fdb-9194-a0dd134a2ec7")
 		)
 		(pin "1"
-			(uuid "ccb59317-769e-4ab8-b13f-1be3dbdbdbbf")
+			(uuid "5710fce3-ffd3-41bc-8c68-33e4bb41cf96")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D46")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -3363,24 +3835,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 227.33 153.67 0)
+		(at 243.84 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "34eb1976-a140-4d06-8795-7bd5f67bb33d")
-		(property "Reference" "MX37"
-			(at 227.33 146.05 0)
+		(uuid "7a07183e-35d3-46ba-ac54-bd1bd7d7dfc7")
+		(property "Reference" "MX11"
+			(at 243.84 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 227.33 148.59 0)
+		(property "Value" "; :"
+			(at 243.84 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3388,7 +3860,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3399,7 +3871,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3410,7 +3882,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3421,7 +3893,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3432,7 +3904,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3443,7 +3915,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3454,7 +3926,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 227.33 153.67 0)
+			(at 243.84 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3465,15 +3937,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "fe1518c0-ef72-4960-93b3-3fb64b8a59f0")
+			(uuid "169d4e23-2253-4359-91a3-855e727cbb00")
 		)
 		(pin "1"
-			(uuid "ac70c90b-986f-47f4-879c-ca070ed45ac3")
+			(uuid "fbd3f3b3-e8e0-4b66-a8ec-78a2e38170a9")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX37")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX11")
 					(unit 1)
 				)
 			)
@@ -3481,16 +3953,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 212.09 114.3 90)
+		(at 175.26 181.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "361d760b-e5bd-455d-a2b3-c7141aa91731")
-		(property "Reference" "D28"
-			(at 214.63 113.0299 90)
+		(uuid "7d2e67f0-598d-4ce2-994b-6661a99c112c")
+		(property "Reference" "D22"
+			(at 177.8 180.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3499,7 +3971,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 214.63 115.5699 90)
+			(at 177.8 182.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3508,7 +3980,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3519,7 +3991,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,7 +4002,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3541,7 +4013,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3552,7 +4024,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3563,7 +4035,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3574,7 +4046,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3585,7 +4057,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3596,7 +4068,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 212.09 114.3 0)
+			(at 175.26 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3607,15 +4079,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "bfd19e34-dd6d-4dfb-82f0-ef60c0a97287")
+			(uuid "bf2d8bec-52c4-442b-8a1b-44342db69e9d")
 		)
 		(pin "1"
-			(uuid "0f5667bc-b56d-472a-9cc7-cf5008b6a652")
+			(uuid "5b80afc3-7971-4b41-87c5-0b38233a3c6b")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D28")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -3623,16 +4095,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 212.09 160.02 90)
+		(at 193.04 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3fcada8d-3912-4fe5-a692-87b0b725f005")
-		(property "Reference" "D40"
-			(at 214.63 158.7499 90)
+		(uuid "7f7ea171-5c77-40ac-b3dd-03474a5b0a16")
+		(property "Reference" "D5"
+			(at 195.58 111.7599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3641,7 +4113,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 214.63 161.2899 90)
+			(at 195.58 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3650,7 +4122,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3661,7 +4133,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3672,7 +4144,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3683,7 +4155,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3694,7 +4166,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3705,7 +4177,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3716,7 +4188,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3727,7 +4199,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3738,7 +4210,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 212.09 160.02 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3749,15 +4221,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "2ce8a3d4-d4f0-4e15-8f6d-d2207aad1ae9")
+			(uuid "fd65ec06-4c7d-4783-bb4e-27d7e42bfc47")
 		)
 		(pin "1"
-			(uuid "4378aa7b-7fba-451f-ad22-e2554e2672b3")
+			(uuid "a1f266cb-c895-4fd8-99bb-7fd54ca0037a")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D40")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3765,24 +4237,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 262.89 130.81 0)
+		(at 208.28 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4d27623c-be9c-4748-846f-4ca6cd8c6b4e")
-		(property "Reference" "MX33"
-			(at 262.89 123.19 0)
+		(uuid "86f63106-5c27-4be1-b5bf-62b26dd3323e")
+		(property "Reference" "MX9"
+			(at 208.28 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "G"
-			(at 262.89 125.73 0)
+		(property "Value" "K"
+			(at 208.28 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +4262,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3801,7 +4273,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3812,7 +4284,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3823,7 +4295,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3834,7 +4306,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3845,7 +4317,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,7 +4328,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 262.89 130.81 0)
+			(at 208.28 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3867,15 +4339,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "dd45ce00-09ff-4d13-bed3-724bbffc018f")
+			(uuid "236ea4b3-487e-4c82-a978-359ab972dfde")
 		)
 		(pin "1"
-			(uuid "569d633e-e682-4aae-aba1-1fb84ea13f4a")
+			(uuid "06c2d931-cd14-48d4-a9ec-ef052c5ceb5f")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX33")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX9")
 					(unit 1)
 				)
 			)
@@ -3883,24 +4355,24 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 191.77 107.95 0)
+		(at 190.5 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "53512edc-8184-4200-b89c-8259712c6395")
-		(property "Reference" "MX23"
-			(at 191.77 100.33 0)
+		(uuid "88eef414-fa81-44ab-86c3-097fa9504ae1")
+		(property "Reference" "MX2"
+			(at 190.5 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Q"
-			(at 191.77 102.87 0)
+		(property "Value" "U"
+			(at 190.5 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3908,7 +4380,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3919,7 +4391,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3930,7 +4402,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3941,7 +4413,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +4424,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3963,7 +4435,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3974,7 +4446,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 191.77 107.95 0)
+			(at 190.5 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3985,133 +4457,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "1765d4c4-5145-4798-9fe3-c3a1b33c1d1d")
+			(uuid "6dc5f38d-d8bd-41c4-bc14-ae52a0e7b315")
 		)
 		(pin "1"
-			(uuid "7d1e625b-6ee5-4ed2-b4c1-a68455ec632e")
+			(uuid "b135cdfc-3c2a-40f5-9bda-1dbb79f821a8")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 209.55 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "667da30b-9d66-409c-a2c4-4d14013409de")
-		(property "Reference" "MX36"
-			(at 209.55 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "X"
-			(at 209.55 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." ""
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 209.55 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "06a2c5f9-e117-4014-8db1-737b4d1c31eb")
-		)
-		(pin "1"
-			(uuid "6ef4b0fe-8d98-49f9-86da-dfaf8b39dba2")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX36")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX2")
 					(unit 1)
 				)
 			)
@@ -4119,16 +4473,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 176.53 160.02 90)
+		(at 246.38 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "755d742e-352f-414f-ad39-0dc50a92497a")
-		(property "Reference" "D38"
-			(at 179.07 158.7499 90)
+		(uuid "8971315e-26db-4612-9950-6ed6eca0f7cc")
+		(property "Reference" "D14"
+			(at 248.92 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4137,7 +4491,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 179.07 161.2899 90)
+			(at 248.92 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4146,7 +4500,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +4511,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4168,7 +4522,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4179,7 +4533,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,7 +4544,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4201,7 +4555,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +4566,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4223,7 +4577,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4234,7 +4588,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 176.53 160.02 0)
+			(at 246.38 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4245,15 +4599,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "869514ec-a972-40ec-b5c8-e33819697d00")
+			(uuid "6e14357a-5b01-4bdd-88c4-50160a97ac10")
 		)
 		(pin "1"
-			(uuid "9febc382-9308-48eb-b4ab-2a2bc8dc13e4")
+			(uuid "678f51ec-33c1-4d9b-8b68-c5912e91143d")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D38")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -4261,16 +4615,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 176.53 137.16 90)
+		(at 210.82 181.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "80aea848-82ae-431a-afe9-ace917251b35")
-		(property "Reference" "D32"
-			(at 179.07 135.8899 90)
+		(uuid "9798cc34-f382-41de-8275-5983cd7ba8b9")
+		(property "Reference" "D24"
+			(at 213.36 180.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4279,7 +4633,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 179.07 138.4299 90)
+			(at 213.36 182.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4288,7 +4642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +4653,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +4664,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4321,7 +4675,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4332,7 +4686,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4343,7 +4697,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4354,7 +4708,7 @@
 			)
 		)
 		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +4719,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "1N4148W"
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4376,7 +4730,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 176.53 137.16 0)
+			(at 210.82 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4387,166 +4741,50 @@
 			)
 		)
 		(pin "2"
-			(uuid "7afe4cbc-2ba8-41e4-8f2e-6c3bda69b599")
+			(uuid "cef79cc0-5c30-4cae-8ebc-f42a4e0c2951")
 		)
 		(pin "1"
-			(uuid "4344d7c1-0343-4106-9d38-704973402ce1")
+			(uuid "0ff03dc0-c044-4e09-9e67-5d7af87efbf5")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D32")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D24")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 245.11 107.95 0)
+		(lib_id "Device:D")
+		(at 175.26 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "82ef95c3-315c-44e8-904d-abaf4d5e56f1")
-		(property "Reference" "MX26"
-			(at 245.11 100.33 0)
+		(uuid "9ad1fadc-4354-41b6-871c-a9230b1bd1db")
+		(property "Reference" "D10"
+			(at 177.8 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "R"
-			(at 245.11 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." ""
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bc844813-08a7-45ec-8381-e6a3883ed966")
-		)
-		(pin "1"
-			(uuid "6f4cd3ae-4a19-4c65-95fb-b6fde3dc7563")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 227.33 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8532ea23-990f-4a57-aac1-39a111bc09b6")
-		(property "Reference" "MX31"
-			(at 227.33 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify right)
 			)
 		)
 		(property "Value" "D"
-			(at 227.33 125.73 0)
+			(at 177.8 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 130.81 0)
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4557,7 +4795,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 130.81 0)
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4567,8 +4805,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 227.33 130.81 0)
+		(property "Description" "Diode"
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,8 +4816,8 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
-			(at 227.33 130.81 0)
+		(property "Sim.Device" "D"
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4589,8 +4827,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 227.33 130.81 0)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4600,8 +4838,30 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." ""
-			(at 227.33 130.81 0)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 175.26 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 175.26 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4612,7 +4872,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 227.33 130.81 0)
+			(at 175.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,48 +4883,50 @@
 			)
 		)
 		(pin "2"
-			(uuid "0e21e437-793d-4d84-83f4-2514302508c7")
+			(uuid "741bcf5e-4c8c-44f0-a869-d4349c9601a6")
 		)
 		(pin "1"
-			(uuid "c081b84c-6920-451e-9b13-4c3dd7732edb")
+			(uuid "c7430ee5-9c8e-4ab5-b0cf-57ec25825d0c")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX31")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D10")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 209.55 130.81 0)
+		(lib_id "Device:D")
+		(at 228.6 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "866acb34-5b1b-4df6-960b-eb915d9d73ca")
-		(property "Reference" "MX30"
-			(at 209.55 123.19 0)
+		(uuid "a8d0dc4b-d9bf-4221-ac79-d3e7b787c259")
+		(property "Reference" "D19"
+			(at 231.14 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "S"
-			(at 209.55 125.73 0)
+		(property "Value" "D"
+			(at 231.14 160.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 130.81 0)
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4675,7 +4937,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 130.81 0)
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4685,8 +4947,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 209.55 130.81 0)
+		(property "Description" "Diode"
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4696,8 +4958,8 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
-			(at 209.55 130.81 0)
+		(property "Sim.Device" "D"
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,8 +4969,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 209.55 130.81 0)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4718,8 +4980,30 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." ""
-			(at 209.55 130.81 0)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 228.6 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 228.6 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4730,7 +5014,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 209.55 130.81 0)
+			(at 228.6 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,15 +5025,157 @@
 			)
 		)
 		(pin "2"
-			(uuid "fdddc813-a865-4e88-8144-ff92a0837716")
+			(uuid "44ae2b98-1456-4683-add0-31e815821806")
 		)
 		(pin "1"
-			(uuid "aee272aa-3b5f-4fa4-84fe-d4c974ac4b66")
+			(uuid "63fe51f5-a722-4adb-8fc3-3faa4096d63e")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX30")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 228.6 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa165f47-f48d-4284-b9c2-0aa85b92cd37")
+		(property "Reference" "D13"
+			(at 231.14 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 231.14 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 228.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "454d12ee-7688-46fc-bf21-bac77f036e18")
+		)
+		(pin "1"
+			(uuid "611074da-ec87-4c06-a9f6-836427b89cfa")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4757,16 +5183,820 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 173.99 153.67 0)
+		(at 226.06 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8b943134-f8e6-4e11-91e3-dc84ed5f6745")
-		(property "Reference" "MX34"
-			(at 173.99 146.05 0)
+		(uuid "ac7ece18-5f92-4e6f-8595-96da63100b94")
+		(property "Reference" "MX10"
+			(at 226.06 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "L"
+			(at 226.06 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 226.06 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "32780e56-d0d6-4d4b-9dff-234b24dbc1fe")
+		)
+		(pin "1"
+			(uuid "bdd54734-89be-410b-a820-1527305632ba")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 264.16 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af0c773a-aeee-4c9a-bf99-f3cb6bfbc1fa")
+		(property "Reference" "D9"
+			(at 266.7 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 264.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "79449bcd-2b3c-4628-a8d6-029d0c0eeb70")
+		)
+		(pin "1"
+			(uuid "a5aaec44-a4c6-45cd-b61f-13b076a6fee0")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 228.6 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b88bb287-25a9-4f3e-8f67-c9a666376918")
+		(property "Reference" "D7"
+			(at 231.14 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 231.14 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8363d47b-a30c-43b2-8bab-a13b9cfd18c8")
+		)
+		(pin "1"
+			(uuid "d33a6e1b-78fc-46bc-b26c-c33e0f19c28c")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 175.26 158.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bcc617b7-8078-458d-ab5e-2cd823321326")
+		(property "Reference" "D16"
+			(at 177.8 157.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 175.26 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e79ae63b-1fc1-434f-bdbc-239e35eebeba")
+		)
+		(pin "1"
+			(uuid "d3ee3f0e-7078-4dea-be9f-e09b706fd529")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 210.82 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd693f05-cdfa-49c9-92d6-03284f8c6c2b")
+		(property "Reference" "D12"
+			(at 213.36 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 213.36 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c05fe54a-2b8f-4487-8a21-46006e5a21a3")
+		)
+		(pin "1"
+			(uuid "0afb6795-c0bf-402b-adc3-0a808e03e0de")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be4baa08-0408-47c8-869c-2db8026d6605")
+		(property "Reference" "MX13"
+			(at 172.72 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "N"
+			(at 172.72 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 172.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c851ac40-f9a1-4176-ac34-e85f980ceac7")
+		)
+		(pin "1"
+			(uuid "f618c63c-0583-47ad-8bc0-b8c17f99543b")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb0785b6-01f9-438c-86dc-1347a791e67a")
+		(property "Reference" "MX19"
+			(at 172.72 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4774,7 +6004,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 173.99 148.59 0)
+			(at 172.72 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4782,7 +6012,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4793,7 +6023,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4804,7 +6034,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4815,7 +6045,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4826,7 +6056,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4837,7 +6067,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4848,7 +6078,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 173.99 153.67 0)
+			(at 172.72 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4859,50 +6089,48 @@
 			)
 		)
 		(pin "2"
-			(uuid "363bbe9c-4146-4b59-8658-c73ad4dee86c")
+			(uuid "f06131de-1328-4605-b09a-3ceec7028fbb")
 		)
 		(pin "1"
-			(uuid "0fd4e60b-cecf-4e4f-962f-fc7772aadc09")
+			(uuid "6dbc8373-85a6-4c67-8781-cf46e47189d0")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX34")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX19")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 194.31 137.16 90)
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "94d5ccd8-d86d-47f6-9305-ddbfcdec786e")
-		(property "Reference" "D33"
-			(at 196.85 135.8899 90)
+		(uuid "d0d96730-278c-4a80-888d-232916bedfc6")
+		(property "Reference" "MX17"
+			(at 243.84 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 196.85 138.4299 90)
+		(property "Value" "/ ?"
+			(at 243.84 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 137.16 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4913,7 +6141,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 194.31 137.16 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4923,8 +6151,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
-			(at 194.31 137.16 0)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,8 +6162,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 194.31 137.16 0)
+		(property "Distributor Link" ""
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,8 +6173,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 194.31 137.16 0)
+		(property "Manufacturer" ""
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4956,30 +6184,8 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 194.31 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 194.31 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 194.31 137.16 0)
+		(property "Manufacturer Part No." ""
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4990,7 +6196,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 194.31 137.16 0)
+			(at 243.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5001,15 +6207,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "05e2e770-507f-4a8e-8a7a-58362860a7c5")
+			(uuid "3c70c505-14a4-411f-8c9c-806c1f07e0c1")
 		)
 		(pin "1"
-			(uuid "780d5d71-5b4b-4600-80b5-2d64380cc211")
+			(uuid "a29f7217-3244-482c-baf6-749bc355e554")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D33")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX17")
 					(unit 1)
 				)
 			)
@@ -5017,16 +6223,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 173.99 130.81 0)
+		(at 261.62 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ac2db9e3-168b-40ca-bf3b-6483fe5732e0")
-		(property "Reference" "MX28"
-			(at 173.99 123.19 0)
+		(uuid "d0d99edf-ae5f-451c-b255-52bd555f2483")
+		(property "Reference" "MX6"
+			(at 261.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5034,7 +6240,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 173.99 125.73 0)
+			(at 261.62 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,7 +6248,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5053,7 +6259,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5064,7 +6270,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5075,7 +6281,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +6292,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5097,7 +6303,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,7 +6314,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 173.99 130.81 0)
+			(at 261.62 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5119,48 +6325,50 @@
 			)
 		)
 		(pin "2"
-			(uuid "c8d8bd52-97f7-4401-93f3-b0e7d22e078f")
+			(uuid "f25e64af-fe6b-4dac-925d-407529274487")
 		)
 		(pin "1"
-			(uuid "fe66cd87-140d-46e2-abaa-a8d1a6d9609e")
+			(uuid "0995a172-007e-432c-aeb7-bec7d1535cee")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX28")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX6")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 245.11 130.81 0)
+		(lib_id "Device:D")
+		(at 210.82 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "afe1746d-73f8-42f3-b4c8-0999451a77d6")
-		(property "Reference" "MX32"
-			(at 245.11 123.19 0)
+		(uuid "d26015fc-3d24-4c2d-8748-e5fb86966b90")
+		(property "Reference" "D18"
+			(at 213.36 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "F"
-			(at 245.11 125.73 0)
+		(property "Value" "D"
+			(at 213.36 160.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 245.11 130.81 0)
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5171,7 +6379,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 130.81 0)
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5181,8 +6389,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 245.11 130.81 0)
+		(property "Description" "Diode"
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5192,8 +6400,8 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" ""
-			(at 245.11 130.81 0)
+		(property "Sim.Device" "D"
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5203,8 +6411,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 245.11 130.81 0)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5214,8 +6422,30 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." ""
-			(at 245.11 130.81 0)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 210.82 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 210.82 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +6456,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 245.11 130.81 0)
+			(at 210.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5237,15 +6467,157 @@
 			)
 		)
 		(pin "2"
-			(uuid "c392fb8f-4722-4544-8bf5-2f1083b964d4")
+			(uuid "40b37e1c-78c9-40b4-bc6c-2d14e816363d")
 		)
 		(pin "1"
-			(uuid "faf86e1a-cb83-4193-9c73-ecd91de0a355")
+			(uuid "2b7f46d7-c0d0-470c-9710-81e64615a195")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX32")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 193.04 181.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db7c99c4-3c32-45ef-aea8-2dd89fb99c2b")
+		(property "Reference" "D23"
+			(at 195.58 180.3399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 195.58 182.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 193.04 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c7bdc016-ca68-4092-8b0f-c3a37a3ab58d")
+		)
+		(pin "1"
+			(uuid "d135dd92-b236-4482-af12-2f98f4c82a0b")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -5253,16 +6625,276 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 262.89 176.53 0)
+		(at 208.28 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b2ec7d0b-7338-423e-bf63-46435802a903")
-		(property "Reference" "MX42"
-			(at 262.89 168.91 0)
+		(uuid "dca58701-6ecf-4b6b-a44c-0221acc0b352")
+		(property "Reference" "MX15"
+			(at 208.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ", <"
+			(at 208.28 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" ""
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." ""
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3d7d7179-dff0-4ef6-8a7d-456ed45225a0")
+		)
+		(pin "1"
+			(uuid "086233ab-00c9-4e47-8efd-3b0d26bddbce")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 246.38 158.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4d8bc2e-f63a-4e97-94d7-7b3583c83036")
+		(property "Reference" "D20"
+			(at 248.92 157.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 248.92 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Jingdao Microelectronics"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "1N4148W"
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 246.38 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ce30fee6-477f-459a-8e22-350db7282118")
+		)
+		(pin "1"
+			(uuid "4d8cc50b-d372-4e90-ac2b-05235684691d")
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6e5663c-180e-40f7-b8f6-e0475439933c")
+		(property "Reference" "MX18"
+			(at 261.62 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5270,7 +6902,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 262.89 171.45 0)
+			(at 261.62 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5278,7 +6910,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5289,7 +6921,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +6932,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5311,7 +6943,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5322,7 +6954,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5333,7 +6965,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5344,7 +6976,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 262.89 176.53 0)
+			(at 261.62 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5355,1647 +6987,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "389a9d2d-4eca-4acc-b362-561981142b49")
+			(uuid "92b1acc1-fdf3-4338-80f1-e05562cd51f5")
 		)
 		(pin "1"
-			(uuid "682b837f-6f08-4c12-8398-5d771c6971cf")
+			(uuid "6787d676-d13d-4168-8616-0d464f41d2fa")
 		)
 		(instances
 			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 265.43 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9fee41f-e7ae-4b04-9049-057b1e7e8263")
-		(property "Reference" "D37"
-			(at 267.97 135.8899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 138.4299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 265.43 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "688b1731-1c76-4e02-8e42-836f2d918fbd")
-		)
-		(pin "1"
-			(uuid "697bfa56-7bec-409e-8b9f-82ba1def632a")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 194.31 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bc6eff17-9a58-4fae-8e6c-4ab7f7cd23c6")
-		(property "Reference" "D39"
-			(at 196.85 158.7499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 196.85 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 194.31 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5cbb8fb0-4bad-4ff3-9d5b-29d7be6a0770")
-		)
-		(pin "1"
-			(uuid "f7ba76d3-4eca-43d8-b3dc-a878674d10a4")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 191.77 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2b8145a-314a-4470-9380-89ef50cb0410")
-		(property "Reference" "MX29"
-			(at 191.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "A"
-			(at 191.77 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." ""
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 191.77 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2131a2b1-6d34-4cea-bfb6-db11ef191246")
-		)
-		(pin "1"
-			(uuid "ad05f9c7-1ce5-4f8b-9a7d-03d9845df438")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 229.87 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cb3b3b54-102c-4193-be59-4f58ea0ed60a")
-		(property "Reference" "D41"
-			(at 232.41 158.7499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 232.41 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 229.87 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2b2998e7-7944-4de3-abfa-ac13f6930b40")
-		)
-		(pin "1"
-			(uuid "25c97d2c-1127-49a2-b24a-24793d1f380c")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 229.87 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cbeff0fb-5a6e-45dd-83dc-cf4f857680b1")
-		(property "Reference" "D29"
-			(at 232.41 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 232.41 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 229.87 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "230c8da7-dfb8-4b51-b73a-624a58dddeee")
-		)
-		(pin "1"
-			(uuid "1cd75ef1-097d-49d4-933d-037ead7d70c6")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 229.87 182.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ccdacd61-e10c-4403-a761-d83fbb6d87a0")
-		(property "Reference" "D44"
-			(at 232.41 181.6099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 232.41 184.1499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 229.87 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c0876824-f422-4258-946a-96f72fd93163")
-		)
-		(pin "1"
-			(uuid "a867a222-415c-44a2-b26c-9e99615d9619")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 245.11 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d573bf3e-7173-48db-ab87-a38a7702b8dc")
-		(property "Reference" "MX38"
-			(at 245.11 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "V"
-			(at 245.11 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." ""
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 245.11 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5950b3f5-bf01-4f74-bbca-2a0017a8ab20")
-		)
-		(pin "1"
-			(uuid "e349ed8b-6d8d-4918-876d-296e10ef3b03")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 173.99 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc8953ca-a794-4a94-89ac-7d4131f7658d")
-		(property "Reference" "MX22"
-			(at 173.99 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 173.99 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." ""
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 173.99 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b37c12a9-d472-433c-8ff4-d0d5b195e731")
-		)
-		(pin "1"
-			(uuid "9267e696-31b9-44a3-896d-460e6f1fbb85")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "MX22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 247.65 182.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dfb4abfd-732e-4159-8a9b-0f1bd7d93b6b")
-		(property "Reference" "D45"
-			(at 250.19 181.6099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 250.19 184.1499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 247.65 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "14337c53-dbf1-4983-87f1-d030cf9623e2")
-		)
-		(pin "1"
-			(uuid "6244abd1-6a30-4a5c-9585-66059357fd40")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 247.65 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f160ddb2-b2b8-46c8-b2eb-5ca5a8fda6c1")
-		(property "Reference" "D42"
-			(at 250.19 158.7499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 250.19 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1d7d0510-99c6-466c-8003-322685e0cc1a")
-		)
-		(pin "1"
-			(uuid "597cebbe-58b4-4d2a-818b-3084783d7987")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 247.65 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5cf1301-984d-419d-94b1-49783f5ec3b1")
-		(property "Reference" "D30"
-			(at 250.19 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 250.19 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 247.65 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9bfb6a5a-9cfb-40e4-8cc3-d98e67cbc1d1")
-		)
-		(pin "1"
-			(uuid "c5679101-9b5d-4e8b-a9e8-967250bb2e62")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 176.53 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f82db086-1aa9-44ef-bb14-337da10fbc10")
-		(property "Reference" "D26"
-			(at 179.07 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 179.07 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/2289-1N4148W"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Jingdao Microelectronics"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part No." "1N4148W"
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" ""
-			(at 176.53 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9ee12a53-4b58-4372-b33b-ee0d3d4d9dc3")
-		)
-		(pin "1"
-			(uuid "9efbfb30-d19f-4e8b-91b5-75b24d604a42")
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/aea2268b-99a7-4c1b-88ca-9db0e6f54310"
-					(reference "D26")
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
+					(reference "MX18")
 					(unit 1)
 				)
 			)

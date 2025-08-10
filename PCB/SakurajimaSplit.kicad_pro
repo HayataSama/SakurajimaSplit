@@ -811,6 +811,14 @@
     [
       "2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e",
       "Right-Half"
+    ],
+    [
+      "6e8a9959-b63f-4a6d-a74b-37ddc14e864e",
+      "Power"
+    ],
+    [
+      "177a5d22-8137-4d36-99f5-f50b13e7348e",
+      "Key-Matrix"
     ]
   ],
   "text_variables": {}
