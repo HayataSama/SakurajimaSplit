@@ -3963,7 +3963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1161f33c-eefc-47e0-b56a-ac63300d0a84")
-		(property "Reference" "D3"
+		(property "Reference" "D45"
 			(at 295.91 140.0174 90)
 			(effects
 				(font
@@ -4078,7 +4078,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/38f7f4db-d52f-4e97-96ce-fcb5b455730e"
-					(reference "D3")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -5661,7 +5661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac292dc0-d781-4cf8-bcf5-a9f63ab882de")
-		(property "Reference" "D2"
+		(property "Reference" "D44"
 			(at 263.8425 114.3 0)
 			(effects
 				(font
@@ -5763,7 +5763,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/d08add9a-e5d5-49be-809e-a90adb11436d/38f7f4db-d52f-4e97-96ce-fcb5b455730e"
-					(reference "D2")
+					(reference "D44")
 					(unit 1)
 				)
 			)

@@ -10884,7 +10884,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b79c41cb-5aab-457c-a9f4-34ac69f83a9f")
-		(property "Reference" "D25"
+		(property "Reference" "D46"
 			(at 91.44 40.9574 90)
 			(effects
 				(font
@@ -10988,7 +10988,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
-					(reference "D25")
+					(reference "D46")
 					(unit 1)
 				)
 			)
