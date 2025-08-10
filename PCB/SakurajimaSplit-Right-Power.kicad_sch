@@ -3792,7 +3792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01577af5-7cde-4205-b6f2-a7db81994b96")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR051"
 			(at 138.43 124.46 0)
 			(effects
 				(font
@@ -3848,7 +3848,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR035")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -3863,7 +3863,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "066667ac-9a26-41b8-92d6-0694f629427c")
-		(property "Reference" "TP10"
+		(property "Reference" "TP21"
 			(at 256.032 126.492 0)
 			(effects
 				(font
@@ -3881,7 +3881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 262.89 134.62 0)
 			(effects
 				(font
@@ -3964,7 +3964,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "TP10")
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -3980,7 +3980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f7e3766-d306-4032-a8dc-7c7ed452ce1f")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR055"
 			(at 254 153.67 0)
 			(effects
 				(font
@@ -4036,7 +4036,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR027")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -4052,7 +4052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17184cab-eade-4cb5-8aad-79de6515e83c")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR060"
 			(at 118.11 172.72 0)
 			(effects
 				(font
@@ -4108,7 +4108,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR040")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -4124,7 +4124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2317e826-5aa0-4647-9fb7-0bf1e52da9a4")
-		(property "Reference" "R11"
+		(property "Reference" "R20"
 			(at 302.26 148.5899 0)
 			(effects
 				(font
@@ -4142,7 +4142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 299.72 149.86 0)
 			(effects
 				(font
@@ -4228,7 +4228,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "R11")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -4244,7 +4244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24262d15-39d7-40fa-b344-b46bad11c30c")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR053"
 			(at 335.28 135.89 0)
 			(effects
 				(font
@@ -4300,7 +4300,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR025")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -4316,7 +4316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26e824d5-d1df-49f5-b1ae-e660b5806cd6")
-		(property "Reference" "J21"
+		(property "Reference" "J39"
 			(at 118.11 115.57 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 121.92 138.43 0)
 			(effects
 				(font
@@ -4463,7 +4463,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "J21")
+					(reference "J39")
 					(unit 1)
 				)
 			)
@@ -4479,7 +4479,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28e16a00-1aa8-4d8c-ae3d-04a9fe5f387b")
-		(property "Reference" "C9"
+		(property "Reference" "C20"
 			(at 237.49 139.6999 0)
 			(effects
 				(font
@@ -4497,7 +4497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 234.6452 144.78 0)
 			(effects
 				(font
@@ -4583,7 +4583,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C9")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -4599,7 +4599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ae8762-d08b-4a22-82b4-9d3329a55069")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR057"
 			(at 144.78 154.94 0)
 			(effects
 				(font
@@ -4655,7 +4655,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR038")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4670,7 +4670,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3986fd5c-3e9f-4ff0-9881-17a00e4918cb")
-		(property "Reference" "TP9"
+		(property "Reference" "TP20"
 			(at 159.258 119.634 0)
 			(effects
 				(font
@@ -4688,7 +4688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -4771,7 +4771,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "TP9")
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -4786,7 +4786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44c31b7a-9201-46ff-8fa9-1e65deb633f4")
-		(property "Reference" "TP11"
+		(property "Reference" "TP22"
 			(at 285.242 126.238 0)
 			(effects
 				(font
@@ -4804,7 +4804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 292.1 134.62 0)
 			(effects
 				(font
@@ -4887,7 +4887,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "TP11")
+					(reference "TP22")
 					(unit 1)
 				)
 			)
@@ -4903,7 +4903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4948727d-7841-436b-9507-a2dd687ad23a")
-		(property "Reference" "C10"
+		(property "Reference" "C21"
 			(at 257.81 139.6999 0)
 			(effects
 				(font
@@ -4921,7 +4921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 254.9652 144.78 0)
 			(effects
 				(font
@@ -5007,7 +5007,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C10")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -5023,7 +5023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b854cf5-c052-4b67-9ee7-a26cb58c8d5e")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR056"
 			(at 287.02 153.67 0)
 			(effects
 				(font
@@ -5079,7 +5079,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR028")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -5095,7 +5095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "649a19c9-9592-4c8c-a39b-d44d0888aad6")
-		(property "Reference" "U4"
+		(property "Reference" "U8"
 			(at 271.78 127 0)
 			(effects
 				(font
@@ -5212,7 +5212,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "U4")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -5244,7 +5244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 190.5 147.32 0)
 			(effects
 				(font
@@ -5301,7 +5301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f70503a-5254-4530-acab-d5ea2eafb93d")
-		(property "Reference" "U6"
+		(property "Reference" "U9"
 			(at 146.558 145.288 0)
 			(effects
 				(font
@@ -5420,7 +5420,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "U6")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -5436,7 +5436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae4a05dd-a666-4a81-ba75-3d3cbdbfbe1e")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR054"
 			(at 233.68 153.67 0)
 			(effects
 				(font
@@ -5492,7 +5492,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR026")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -5507,7 +5507,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af443d38-8042-4cf9-a079-50c10de2ecb2")
-		(property "Reference" "TP15"
+		(property "Reference" "TP23"
 			(at 157.988 133.858 0)
 			(effects
 				(font
@@ -5525,7 +5525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 161.29 138.43 0)
 			(effects
 				(font
@@ -5564,7 +5564,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "TP15")
+					(reference "TP23")
 					(unit 1)
 				)
 			)
@@ -5580,7 +5580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c14c41cd-25dc-4b3c-b8ff-629d284b82a0")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR058"
 			(at 271.78 156.21 0)
 			(effects
 				(font
@@ -5636,7 +5636,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR029")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -5652,7 +5652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd6aff03-171a-47c5-af8a-ec787465d8de")
-		(property "Reference" "C11"
+		(property "Reference" "C22"
 			(at 290.83 139.6999 0)
 			(effects
 				(font
@@ -5670,7 +5670,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 287.9852 144.78 0)
 			(effects
 				(font
@@ -5756,7 +5756,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C11")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -5772,7 +5772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d459ec6d-8b07-4cbf-8d7b-c78a3dfaf5a4")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR052"
 			(at 250.19 135.89 0)
 			(effects
 				(font
@@ -5828,7 +5828,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR024")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -5844,7 +5844,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6d6b5d5-8680-4fc3-82de-719ba285e82c")
-		(property "Reference" "TP14"
+		(property "Reference" "TP24"
 			(at 157.988 145.542 0)
 			(effects
 				(font
@@ -5862,7 +5862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 161.29 140.97 0)
 			(effects
 				(font
@@ -5901,7 +5901,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "TP14")
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -5917,7 +5917,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7d5ba3f-1112-4fd2-920b-41a3d43eb943")
-		(property "Reference" "D2"
+		(property "Reference" "D26"
 			(at 271.4625 115.57 0)
 			(effects
 				(font
@@ -5933,7 +5933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 271.78 121.92 0)
 			(effects
 				(font
@@ -6019,7 +6019,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "D2")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -6035,7 +6035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e995269d-ddc7-495d-9a44-ae6eb98d0f81")
-		(property "Reference" "L1"
+		(property "Reference" "L2"
 			(at 243.84 129.54 90)
 			(effects
 				(font
@@ -6051,7 +6051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1210_3225Metric"
 			(at 243.84 134.62 0)
 			(effects
 				(font
@@ -6120,7 +6120,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "L1")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -6136,7 +6136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eae174a9-21de-4a88-a18c-7016b52e41fe")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR059"
 			(at 299.72 161.29 0)
 			(effects
 				(font
@@ -6192,7 +6192,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "#PWR031")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -6207,7 +6207,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecb5a32a-f690-482d-9e4c-1c22bd9e37b0")
-		(property "Reference" "JP2"
+		(property "Reference" "JP4"
 			(at 323.85 128.27 0)
 			(effects
 				(font
@@ -6223,7 +6223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 323.85 134.62 0)
 			(effects
 				(font
@@ -6265,7 +6265,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "JP2")
+					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -6281,7 +6281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f15ae148-c25f-4add-ad06-f8d839a023fe")
-		(property "Reference" "D3"
+		(property "Reference" "D27"
 			(at 303.53 141.2874 90)
 			(effects
 				(font
@@ -6299,7 +6299,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 299.72 140.97 0)
 			(effects
 				(font
@@ -6396,7 +6396,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "D3")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -6411,7 +6411,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f3503fba-4027-4a92-aaa6-a20be33a43a8")
-		(property "Reference" "JP1"
+		(property "Reference" "JP3"
 			(at 190.5 128.27 0)
 			(effects
 				(font
@@ -6427,7 +6427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 190.5 134.62 0)
 			(effects
 				(font
@@ -6469,7 +6469,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "JP1")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -6500,7 +6500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 190.5 144.78 0)
 			(effects
 				(font

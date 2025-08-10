@@ -1551,7 +1551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "026e1cd2-ce04-4331-8f5a-eba15ef1cbea")
-		(property "Reference" "D4"
+		(property "Reference" "D28"
 			(at 177.8 111.7599 90)
 			(effects
 				(font
@@ -1569,7 +1569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 175.26 113.03 0)
 			(effects
 				(font
@@ -1677,7 +1677,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D4")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -1693,7 +1693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07fd6df9-39a1-4a3c-9e9a-3e263da1172c")
-		(property "Reference" "D11"
+		(property "Reference" "D35"
 			(at 195.58 134.6199 90)
 			(effects
 				(font
@@ -1711,7 +1711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 193.04 135.89 0)
 			(effects
 				(font
@@ -1819,7 +1819,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D11")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -1835,7 +1835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b4bcfe3-aade-42e0-8e04-5c072958cb75")
-		(property "Reference" "D17"
+		(property "Reference" "D41"
 			(at 195.58 157.4799 90)
 			(effects
 				(font
@@ -1853,7 +1853,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 193.04 158.75 0)
 			(effects
 				(font
@@ -1961,7 +1961,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D17")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -1977,7 +1977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c0d106f-918f-46f2-b672-006566fece19")
-		(property "Reference" "D8"
+		(property "Reference" "D32"
 			(at 248.92 111.7599 90)
 			(effects
 				(font
@@ -1995,7 +1995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 246.38 113.03 0)
 			(effects
 				(font
@@ -2103,7 +2103,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D8")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -2119,7 +2119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "200fa067-1cf2-4382-b479-5926354910e1")
-		(property "Reference" "MX16"
+		(property "Reference" "MX37"
 			(at 226.06 144.78 0)
 			(effects
 				(font
@@ -2135,7 +2135,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 226.06 152.4 0)
 			(effects
 				(font
@@ -2221,7 +2221,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX16")
+					(reference "MX37")
 					(unit 1)
 				)
 			)
@@ -2237,7 +2237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26fb718a-433c-421a-b2f8-eb4f3293e6c2")
-		(property "Reference" "D21"
+		(property "Reference" "D45"
 			(at 266.7 157.4799 90)
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 264.16 158.75 0)
 			(effects
 				(font
@@ -2363,7 +2363,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D21")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -2379,7 +2379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28849e5e-708e-41cf-a141-bdc16bdcbda2")
-		(property "Reference" "MX7"
+		(property "Reference" "MX28"
 			(at 172.72 121.92 0)
 			(effects
 				(font
@@ -2395,7 +2395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 172.72 129.54 0)
 			(effects
 				(font
@@ -2481,7 +2481,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX7")
+					(reference "MX28")
 					(unit 1)
 				)
 			)
@@ -2497,7 +2497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3207a5d2-5a9b-4b9c-8ffd-4f0d3cc9cc93")
-		(property "Reference" "MX3"
+		(property "Reference" "MX24"
 			(at 208.28 99.06 0)
 			(effects
 				(font
@@ -2513,7 +2513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 208.28 106.68 0)
 			(effects
 				(font
@@ -2599,7 +2599,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX3")
+					(reference "MX24")
 					(unit 1)
 				)
 			)
@@ -2615,7 +2615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a61dcf6-b0b4-4ed9-ac35-293d25f1b49c")
-		(property "Reference" "MX1"
+		(property "Reference" "MX22"
 			(at 172.72 99.06 0)
 			(effects
 				(font
@@ -2631,7 +2631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 172.72 106.68 0)
 			(effects
 				(font
@@ -2717,7 +2717,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX1")
+					(reference "MX22")
 					(unit 1)
 				)
 			)
@@ -2733,7 +2733,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b49bfd7-d028-4930-ab0b-bba709e474bf")
-		(property "Reference" "D6"
+		(property "Reference" "D30"
 			(at 213.36 111.7599 90)
 			(effects
 				(font
@@ -2751,7 +2751,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 113.03 0)
 			(effects
 				(font
@@ -2859,7 +2859,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D6")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -2875,7 +2875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47fdfdc4-fada-40ce-af2f-3a342157ad69")
-		(property "Reference" "MX5"
+		(property "Reference" "MX26"
 			(at 243.84 99.06 0)
 			(effects
 				(font
@@ -2891,7 +2891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 243.84 106.68 0)
 			(effects
 				(font
@@ -2977,7 +2977,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX5")
+					(reference "MX26")
 					(unit 1)
 				)
 			)
@@ -2993,7 +2993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e8ac52e-8486-4da9-a3cc-b2d7d90d65eb")
-		(property "Reference" "MX4"
+		(property "Reference" "MX25"
 			(at 226.06 99.06 0)
 			(effects
 				(font
@@ -3009,7 +3009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 226.06 106.68 0)
 			(effects
 				(font
@@ -3095,7 +3095,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX4")
+					(reference "MX25")
 					(unit 1)
 				)
 			)
@@ -3111,7 +3111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f13a958-2925-4cd6-ab89-c8eb22e50ee8")
-		(property "Reference" "MX14"
+		(property "Reference" "MX35"
 			(at 190.5 144.78 0)
 			(effects
 				(font
@@ -3127,7 +3127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 190.5 152.4 0)
 			(effects
 				(font
@@ -3213,7 +3213,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX14")
+					(reference "MX35")
 					(unit 1)
 				)
 			)
@@ -3229,7 +3229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fc505b1-9ad4-4aa9-92f7-7c0e7090613a")
-		(property "Reference" "MX21"
+		(property "Reference" "MX42"
 			(at 208.28 167.64 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 208.28 175.26 0)
 			(effects
 				(font
@@ -3331,7 +3331,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX21")
+					(reference "MX42")
 					(unit 1)
 				)
 			)
@@ -3347,7 +3347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6422f97b-c86d-4a1b-a826-0240e14de648")
-		(property "Reference" "MX8"
+		(property "Reference" "MX29"
 			(at 190.5 121.92 0)
 			(effects
 				(font
@@ -3363,7 +3363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 190.5 129.54 0)
 			(effects
 				(font
@@ -3449,7 +3449,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX8")
+					(reference "MX29")
 					(unit 1)
 				)
 			)
@@ -3465,7 +3465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aa688ec-ed0a-4dd2-bdf9-ed718911d8cd")
-		(property "Reference" "MX20"
+		(property "Reference" "MX41"
 			(at 190.5 167.64 0)
 			(effects
 				(font
@@ -3481,7 +3481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 190.5 175.26 0)
 			(effects
 				(font
@@ -3567,7 +3567,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX20")
+					(reference "MX41")
 					(unit 1)
 				)
 			)
@@ -3583,7 +3583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bf650c3-e058-48da-920d-0977801c1e96")
-		(property "Reference" "MX12"
+		(property "Reference" "MX33"
 			(at 261.62 121.92 0)
 			(effects
 				(font
@@ -3599,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 261.62 129.54 0)
 			(effects
 				(font
@@ -3685,7 +3685,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX12")
+					(reference "MX33")
 					(unit 1)
 				)
 			)
@@ -3701,7 +3701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "748fd9b4-9940-4a25-a946-d57b0eb50a0b")
-		(property "Reference" "D15"
+		(property "Reference" "D39"
 			(at 266.7 134.6199 90)
 			(effects
 				(font
@@ -3719,7 +3719,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 264.16 135.89 0)
 			(effects
 				(font
@@ -3827,7 +3827,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D15")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -3843,7 +3843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a07183e-35d3-46ba-ac54-bd1bd7d7dfc7")
-		(property "Reference" "MX11"
+		(property "Reference" "MX32"
 			(at 243.84 121.92 0)
 			(effects
 				(font
@@ -3859,7 +3859,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 243.84 129.54 0)
 			(effects
 				(font
@@ -3945,7 +3945,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX11")
+					(reference "MX32")
 					(unit 1)
 				)
 			)
@@ -3961,7 +3961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d2e67f0-598d-4ce2-994b-6661a99c112c")
-		(property "Reference" "D22"
+		(property "Reference" "D46"
 			(at 177.8 180.3399 90)
 			(effects
 				(font
@@ -3979,7 +3979,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 175.26 181.61 0)
 			(effects
 				(font
@@ -4087,7 +4087,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D22")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -4103,7 +4103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f7ea171-5c77-40ac-b3dd-03474a5b0a16")
-		(property "Reference" "D5"
+		(property "Reference" "D29"
 			(at 195.58 111.7599 90)
 			(effects
 				(font
@@ -4121,7 +4121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 193.04 113.03 0)
 			(effects
 				(font
@@ -4229,7 +4229,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D5")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -4245,7 +4245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86f63106-5c27-4be1-b5bf-62b26dd3323e")
-		(property "Reference" "MX9"
+		(property "Reference" "MX30"
 			(at 208.28 121.92 0)
 			(effects
 				(font
@@ -4261,7 +4261,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 208.28 129.54 0)
 			(effects
 				(font
@@ -4347,7 +4347,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX9")
+					(reference "MX30")
 					(unit 1)
 				)
 			)
@@ -4363,7 +4363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88eef414-fa81-44ab-86c3-097fa9504ae1")
-		(property "Reference" "MX2"
+		(property "Reference" "MX23"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -4379,7 +4379,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 190.5 106.68 0)
 			(effects
 				(font
@@ -4465,7 +4465,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX2")
+					(reference "MX23")
 					(unit 1)
 				)
 			)
@@ -4481,7 +4481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8971315e-26db-4612-9950-6ed6eca0f7cc")
-		(property "Reference" "D14"
+		(property "Reference" "D38"
 			(at 248.92 134.6199 90)
 			(effects
 				(font
@@ -4499,7 +4499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 246.38 135.89 0)
 			(effects
 				(font
@@ -4607,7 +4607,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D14")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -4623,7 +4623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9798cc34-f382-41de-8275-5983cd7ba8b9")
-		(property "Reference" "D24"
+		(property "Reference" "D48"
 			(at 213.36 180.3399 90)
 			(effects
 				(font
@@ -4641,7 +4641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 181.61 0)
 			(effects
 				(font
@@ -4749,7 +4749,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D24")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -4765,7 +4765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ad1fadc-4354-41b6-871c-a9230b1bd1db")
-		(property "Reference" "D10"
+		(property "Reference" "D34"
 			(at 177.8 134.6199 90)
 			(effects
 				(font
@@ -4783,7 +4783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 175.26 135.89 0)
 			(effects
 				(font
@@ -4891,7 +4891,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D10")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -4907,7 +4907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8d0dc4b-d9bf-4221-ac79-d3e7b787c259")
-		(property "Reference" "D19"
+		(property "Reference" "D43"
 			(at 231.14 157.4799 90)
 			(effects
 				(font
@@ -4925,7 +4925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 228.6 158.75 0)
 			(effects
 				(font
@@ -5033,7 +5033,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D19")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -5049,7 +5049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa165f47-f48d-4284-b9c2-0aa85b92cd37")
-		(property "Reference" "D13"
+		(property "Reference" "D37"
 			(at 231.14 134.6199 90)
 			(effects
 				(font
@@ -5067,7 +5067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 228.6 135.89 0)
 			(effects
 				(font
@@ -5175,7 +5175,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D13")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -5191,7 +5191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac7ece18-5f92-4e6f-8595-96da63100b94")
-		(property "Reference" "MX10"
+		(property "Reference" "MX31"
 			(at 226.06 121.92 0)
 			(effects
 				(font
@@ -5207,7 +5207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 226.06 129.54 0)
 			(effects
 				(font
@@ -5293,7 +5293,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX10")
+					(reference "MX31")
 					(unit 1)
 				)
 			)
@@ -5309,7 +5309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af0c773a-aeee-4c9a-bf99-f3cb6bfbc1fa")
-		(property "Reference" "D9"
+		(property "Reference" "D33"
 			(at 266.7 111.7599 90)
 			(effects
 				(font
@@ -5327,7 +5327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 264.16 113.03 0)
 			(effects
 				(font
@@ -5435,7 +5435,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D9")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -5451,7 +5451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b88bb287-25a9-4f3e-8f67-c9a666376918")
-		(property "Reference" "D7"
+		(property "Reference" "D31"
 			(at 231.14 111.7599 90)
 			(effects
 				(font
@@ -5469,7 +5469,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 228.6 113.03 0)
 			(effects
 				(font
@@ -5577,7 +5577,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D7")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -5593,7 +5593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcc617b7-8078-458d-ab5e-2cd823321326")
-		(property "Reference" "D16"
+		(property "Reference" "D40"
 			(at 177.8 157.4799 90)
 			(effects
 				(font
@@ -5611,7 +5611,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 175.26 158.75 0)
 			(effects
 				(font
@@ -5719,7 +5719,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D16")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -5735,7 +5735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd693f05-cdfa-49c9-92d6-03284f8c6c2b")
-		(property "Reference" "D12"
+		(property "Reference" "D36"
 			(at 213.36 134.6199 90)
 			(effects
 				(font
@@ -5753,7 +5753,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 135.89 0)
 			(effects
 				(font
@@ -5861,7 +5861,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D12")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -5877,7 +5877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be4baa08-0408-47c8-869c-2db8026d6605")
-		(property "Reference" "MX13"
+		(property "Reference" "MX34"
 			(at 172.72 144.78 0)
 			(effects
 				(font
@@ -5893,7 +5893,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 172.72 152.4 0)
 			(effects
 				(font
@@ -5979,7 +5979,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX13")
+					(reference "MX34")
 					(unit 1)
 				)
 			)
@@ -5995,7 +5995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb0785b6-01f9-438c-86dc-1347a791e67a")
-		(property "Reference" "MX19"
+		(property "Reference" "MX40"
 			(at 172.72 167.64 0)
 			(effects
 				(font
@@ -6011,7 +6011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 172.72 175.26 0)
 			(effects
 				(font
@@ -6097,7 +6097,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX19")
+					(reference "MX40")
 					(unit 1)
 				)
 			)
@@ -6113,7 +6113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0d96730-278c-4a80-888d-232916bedfc6")
-		(property "Reference" "MX17"
+		(property "Reference" "MX38"
 			(at 243.84 144.78 0)
 			(effects
 				(font
@@ -6129,7 +6129,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 243.84 152.4 0)
 			(effects
 				(font
@@ -6215,7 +6215,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX17")
+					(reference "MX38")
 					(unit 1)
 				)
 			)
@@ -6231,7 +6231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0d99edf-ae5f-451c-b255-52bd555f2483")
-		(property "Reference" "MX6"
+		(property "Reference" "MX27"
 			(at 261.62 99.06 0)
 			(effects
 				(font
@@ -6247,7 +6247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 261.62 106.68 0)
 			(effects
 				(font
@@ -6333,7 +6333,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX6")
+					(reference "MX27")
 					(unit 1)
 				)
 			)
@@ -6349,7 +6349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d26015fc-3d24-4c2d-8748-e5fb86966b90")
-		(property "Reference" "D18"
+		(property "Reference" "D42"
 			(at 213.36 157.4799 90)
 			(effects
 				(font
@@ -6367,7 +6367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 158.75 0)
 			(effects
 				(font
@@ -6475,7 +6475,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D18")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -6491,7 +6491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db7c99c4-3c32-45ef-aea8-2dd89fb99c2b")
-		(property "Reference" "D23"
+		(property "Reference" "D47"
 			(at 195.58 180.3399 90)
 			(effects
 				(font
@@ -6509,7 +6509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 193.04 181.61 0)
 			(effects
 				(font
@@ -6617,7 +6617,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D23")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -6633,7 +6633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dca58701-6ecf-4b6b-a44c-0221acc0b352")
-		(property "Reference" "MX15"
+		(property "Reference" "MX36"
 			(at 208.28 144.78 0)
 			(effects
 				(font
@@ -6649,7 +6649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 208.28 152.4 0)
 			(effects
 				(font
@@ -6735,7 +6735,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX15")
+					(reference "MX36")
 					(unit 1)
 				)
 			)
@@ -6751,7 +6751,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4d8bc2e-f63a-4e97-94d7-7b3583c83036")
-		(property "Reference" "D20"
+		(property "Reference" "D44"
 			(at 248.92 157.4799 90)
 			(effects
 				(font
@@ -6769,7 +6769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 246.38 158.75 0)
 			(effects
 				(font
@@ -6877,7 +6877,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "D20")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -6893,7 +6893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6e5663c-180e-40f7-b8f6-e0475439933c")
-		(property "Reference" "MX18"
+		(property "Reference" "MX39"
 			(at 261.62 144.78 0)
 			(effects
 				(font
@@ -6909,7 +6909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
 			(at 261.62 152.4 0)
 			(effects
 				(font
@@ -6995,7 +6995,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/177a5d22-8137-4d36-99f5-f50b13e7348e"
-					(reference "MX18")
+					(reference "MX39")
 					(unit 1)
 				)
 			)
