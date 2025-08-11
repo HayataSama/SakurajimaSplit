@@ -5335,6 +5335,17 @@
 			(uuid "f94aeaa0-9781-4b7e-834d-e439a44c76e5")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libs/3d models/ER-OLEDM032-1.STEP"
+			(offset
+				(xyz -2 -2 1.5)
+			)
+			(scale
+				(xyz 0.71 0.7 1)
+			)
+			(rotate
+				(xyz -0 180 90)
+			)
+		)
 	)
 	(footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
 		(layer "F.Cu")
@@ -23320,6 +23331,17 @@
 			(uuid "95e90e17-f62a-4f06-ab46-ec73771404f1")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libs/3d models/ER-OLEDM032-1.STEP"
+			(offset
+				(xyz -2 -2 1.5)
+			)
+			(scale
+				(xyz 0.71 0.7 1)
+			)
+			(rotate
+				(xyz -0 180 90)
+			)
+		)
 	)
 	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
