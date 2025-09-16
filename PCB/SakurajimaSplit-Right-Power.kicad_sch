@@ -3001,6 +3001,12 @@
 		(uuid "260b74b5-c2ee-4651-9704-baecb643e533")
 	)
 	(junction
+		(at 299.72 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28fd05b7-6a24-46cc-b790-4086f2f3afbf")
+	)
+	(junction
 		(at 118.11 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3029,12 +3035,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79855351-6657-4fde-94a5-322bdfdff612")
-	)
-	(junction
-		(at 299.72 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "806fadc6-5f09-496f-910d-b466e1418c50")
 	)
 	(junction
 		(at 287.02 134.62)
@@ -3172,6 +3172,26 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 142.24) (xy 299.72 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10bdc209-e35c-49ce-9471-847ceb30905a")
+	)
+	(wire
+		(pts
+			(xy 299.72 134.62) (xy 320.04 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "186e6cac-e47a-4b0f-b293-82bf7cf7035e")
+	)
+	(wire
+		(pts
 			(xy 250.19 134.62) (xy 254 134.62)
 		)
 		(stroke
@@ -3192,16 +3212,6 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 134.62) (xy 299.72 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19ca1dc7-8862-48a1-a3d7-5a34f5474112")
-	)
-	(wire
-		(pts
 			(xy 118.11 166.37) (xy 118.11 163.83)
 		)
 		(stroke
@@ -3219,16 +3229,6 @@
 			(type default)
 		)
 		(uuid "20fb7607-089f-4b2b-980c-2707476857c4")
-	)
-	(wire
-		(pts
-			(xy 299.72 134.62) (xy 299.72 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25e6902c-ccfc-4ea3-96a5-a1f741aa22bc")
 	)
 	(wire
 		(pts
@@ -3269,16 +3269,6 @@
 			(type default)
 		)
 		(uuid "3126c419-bedc-43a2-b7d2-3dbd2f021625")
-	)
-	(wire
-		(pts
-			(xy 299.72 144.78) (xy 299.72 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35e3004e-19eb-4edb-ae08-a53f02652544")
 	)
 	(wire
 		(pts
@@ -3422,6 +3412,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 152.4) (xy 299.72 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a6ceda8-2109-401c-bb8d-631a34f8dbe1")
+	)
+	(wire
+		(pts
 			(xy 257.81 134.62) (xy 261.62 134.62)
 		)
 		(stroke
@@ -3459,6 +3459,16 @@
 			(type default)
 		)
 		(uuid "78bd8d9c-16f4-4a2b-ab42-4fe0fd95b968")
+	)
+	(wire
+		(pts
+			(xy 299.72 134.62) (xy 299.72 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a3c90bd-e39d-400a-a645-8b0eefc117e6")
 	)
 	(wire
 		(pts
@@ -3612,16 +3622,6 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 152.4) (xy 299.72 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b58c40e4-f746-4717-871f-eb21b9d9e660")
-	)
-	(wire
-		(pts
 			(xy 275.59 121.92) (xy 281.94 121.92)
 		)
 		(stroke
@@ -3672,7 +3672,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 134.62) (xy 320.04 134.62)
+			(xy 287.02 134.62) (xy 299.72 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4116,7 +4116,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 299.72 149.86 0)
+		(at 299.72 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4125,7 +4125,7 @@
 		(fields_autoplaced yes)
 		(uuid "2317e826-5aa0-4647-9fb7-0bf1e52da9a4")
 		(property "Reference" "R12"
-			(at 302.26 148.5899 0)
+			(at 302.26 138.4299 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -4134,7 +4134,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 302.26 151.1299 0)
+			(at 302.26 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4143,7 +4143,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +4154,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4165,7 +4165,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4176,7 +4176,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/1182-SER0603F330R"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4187,7 +4187,7 @@
 			)
 		)
 		(property "Manufacturer" "VO Sub Brand (ER)"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4198,7 +4198,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "SER0603F330R"
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4209,7 +4209,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 299.72 149.86 0)
+			(at 299.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6273,7 +6273,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 299.72 140.97 90)
+		(at 299.72 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6282,7 +6282,7 @@
 		(fields_autoplaced yes)
 		(uuid "f15ae148-c25f-4add-ad06-f8d839a023fe")
 		(property "Reference" "D48"
-			(at 303.53 141.2874 90)
+			(at 303.53 148.9074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6291,7 +6291,7 @@
 			)
 		)
 		(property "Value" "PWR ind."
-			(at 303.53 143.8274 90)
+			(at 303.53 151.4474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6300,7 +6300,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6311,7 +6311,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6322,7 +6322,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6333,7 +6333,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6344,7 +6344,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2212-XL-1608UGC-04"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,7 +6355,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6366,7 +6366,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "XL-1608UGC-04"
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6377,7 +6377,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 299.72 140.97 0)
+			(at 299.72 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)

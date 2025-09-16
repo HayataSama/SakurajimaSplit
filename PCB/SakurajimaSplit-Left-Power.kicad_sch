@@ -3523,13 +3523,13 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 143.51) (xy 292.1 146.05)
+			(xy 292.1 140.97) (xy 292.1 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b8eaaa8-5f95-470b-b123-d9e139d3daa7")
+		(uuid "6ae9e353-cd66-4321-bd6c-01310aa4148f")
 	)
 	(wire
 		(pts
@@ -3955,7 +3955,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 292.1 139.7 90)
+		(at 292.1 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3964,7 +3964,7 @@
 		(fields_autoplaced yes)
 		(uuid "1161f33c-eefc-47e0-b56a-ac63300d0a84")
 		(property "Reference" "D45"
-			(at 295.91 140.0174 90)
+			(at 295.91 147.6374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +3973,7 @@
 			)
 		)
 		(property "Value" "PWR ind."
-			(at 295.91 142.5574 90)
+			(at 295.91 150.1774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3982,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3993,7 +3993,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4004,7 +4004,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,7 +4015,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4026,7 +4026,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2212-XL-1608UGC-04"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4037,7 +4037,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +4048,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "XL-1608UGC-04"
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4059,7 +4059,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 292.1 139.7 0)
+			(at 292.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4303,7 +4303,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 292.1 148.59 0)
+		(at 292.1 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4312,7 +4312,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c448973-bc7f-4387-9a0f-26452ec5c101")
 		(property "Reference" "R11"
-			(at 294.64 147.3199 0)
+			(at 294.64 137.1599 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -4321,7 +4321,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 294.64 149.8599 0)
+			(at 294.64 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4341,7 +4341,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4352,7 +4352,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4363,7 +4363,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/1182-SER0603F330R"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +4374,7 @@
 			)
 		)
 		(property "Manufacturer" "VO Sub Brand (ER)"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4385,7 +4385,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "SER0603F330R"
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4396,7 +4396,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 292.1 148.59 0)
+			(at 292.1 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)

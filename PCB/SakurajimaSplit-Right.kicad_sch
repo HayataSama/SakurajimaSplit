@@ -4417,16 +4417,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 44.45) (xy 87.63 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67fe93b2-4e17-41cc-bc49-c10cf6100ec4")
-	)
-	(wire
-		(pts
 			(xy 181.61 142.24) (xy 176.53 142.24)
 		)
 		(stroke
@@ -5034,6 +5024,16 @@
 			(type default)
 		)
 		(uuid "dfc266c3-5a83-4c9a-b164-af24d2049939")
+	)
+	(wire
+		(pts
+			(xy 87.63 41.91) (xy 87.63 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e00958bf-006c-4190-8992-a50d8ef09937")
 	)
 	(wire
 		(pts
@@ -9596,7 +9596,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 87.63 49.53 0)
+		(at 87.63 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9605,7 +9605,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad50ddc8-cab5-43b2-bbeb-8b39bec92c26")
 		(property "Reference" "R5"
-			(at 91.44 48.2599 0)
+			(at 91.44 38.0999 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9614,7 +9614,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 91.44 50.7999 0)
+			(at 91.44 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9623,7 +9623,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9634,7 +9634,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9645,7 +9645,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9656,7 +9656,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/1182-SER0603F330R"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9667,7 +9667,7 @@
 			)
 		)
 		(property "Manufacturer" "VO Sub Brand (ER)"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9678,7 +9678,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "SER0603F330R"
-			(at 87.63 49.53 0)
+			(at 87.63 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9988,7 +9988,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 87.63 40.64 90)
+		(at 87.63 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9997,7 +9997,7 @@
 		(fields_autoplaced yes)
 		(uuid "b79c41cb-5aab-457c-a9f4-34ac69f83a9f")
 		(property "Reference" "D46"
-			(at 91.44 40.9574 90)
+			(at 91.44 48.5774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10006,7 +10006,7 @@
 			)
 		)
 		(property "Value" "CapsLock ind."
-			(at 91.44 43.4974 90)
+			(at 91.44 51.1174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10015,7 +10015,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 87.63 40.64 0)
+			(at 87.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10026,7 +10026,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.63 40.64 0)
+			(at 87.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10037,7 +10037,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 87.63 40.64 0)
+			(at 87.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10048,7 +10048,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 87.63 40.64 0)
+			(at 87.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10059,7 +10059,7 @@
 			)
 		)
 		(property "Distributor Link" "https://lionelectronic.ir/products/2215-XL-1608UWC-04"
-			(at 87.63 40.64 90)
+			(at 87.63 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10070,7 +10070,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 87.63 40.64 90)
+			(at 87.63 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10081,7 +10081,7 @@
 			)
 		)
 		(property "Manufacturer Part No." "XL-1608UWC-04"
-			(at 87.63 40.64 90)
+			(at 87.63 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
