@@ -6011,7 +6011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u"
 			(at 172.72 175.26 0)
 			(effects
 				(font
