@@ -3096,12 +3096,6 @@
 		(uuid "08d0a488-c6bf-4b64-843b-396f88cc6472")
 	)
 	(junction
-		(at 171.45 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0967f774-a9e8-4598-9e12-e8a4764bc464")
-	)
-	(junction
 		(at 250.19 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3118,6 +3112,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "359be378-b7da-43e6-b37f-e1e0a18be846")
+	)
+	(junction
+		(at 215.9 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46ca5ce3-0b42-4111-998a-006d9629a2b1")
 	)
 	(junction
 		(at 246.38 133.35)
@@ -3243,7 +3243,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 119.38) (xy 171.45 119.38)
+			(xy 163.83 119.38) (xy 180.34 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3290,16 +3290,6 @@
 			(type default)
 		)
 		(uuid "133a54ad-de70-4340-abca-fabcb8afbc86")
-	)
-	(wire
-		(pts
-			(xy 171.45 119.38) (xy 180.34 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15204945-aa8c-48ed-bd1c-8937a90bc6ff")
 	)
 	(wire
 		(pts
@@ -3703,7 +3693,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 133.35) (xy 226.06 133.35)
+			(xy 201.93 133.35) (xy 215.9 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3900,6 +3890,16 @@
 			(type default)
 		)
 		(uuid "f6df1efd-62c3-49f2-8a43-c796553f1b7f")
+	)
+	(wire
+		(pts
+			(xy 215.9 133.35) (xy 226.06 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8865ae8-c2f5-4e9a-8ee1-cb685e056e7a")
 	)
 	(wire
 		(pts
@@ -4448,7 +4448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 284.48 133.35 0)
 			(effects
 				(font
@@ -5272,7 +5272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 176.53 142.24 0)
 			(effects
 				(font
@@ -6271,7 +6271,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 171.45 119.38 0)
+		(at 215.9 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6279,7 +6279,7 @@
 		(dnp no)
 		(uuid "dd67f0f4-c386-4fdc-9622-074bbece9668")
 		(property "Reference" "TP9"
-			(at 173.228 115.824 0)
+			(at 217.678 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6288,7 +6288,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 172.72 118.11 0)
+			(at 217.17 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6296,8 +6296,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
-			(at 176.53 119.38 0)
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
+			(at 220.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6308,7 +6308,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 119.38 0)
+			(at 220.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6319,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 171.45 119.38 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6330,7 +6330,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 171.45 119.38 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6341,7 +6341,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 171.45 119.38 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6352,7 +6352,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 171.45 119.38 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +6363,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 171.45 119.38 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +6557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 176.53 144.78 0)
 			(effects
 				(font
@@ -6629,7 +6629,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 255.27 133.35 0)
 			(effects
 				(font

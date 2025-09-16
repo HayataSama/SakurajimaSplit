@@ -2995,12 +2995,6 @@
 		(uuid "0ee288d5-5652-4187-8d92-c026cf807cc5")
 	)
 	(junction
-		(at 157.48 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f01af3d-cd6b-4b00-a0ed-8db5418e178b")
-	)
-	(junction
 		(at 156.21 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3053,6 +3047,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e2f0632-ae03-4eee-9cd1-93488b2fd9e1")
+	)
+	(junction
+		(at 224.79 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9124b82b-6fb2-453f-b12b-f6faa5ebc2ce")
 	)
 	(junction
 		(at 144.78 123.19)
@@ -3232,7 +3232,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 123.19) (xy 157.48 123.19)
+			(xy 144.78 123.19) (xy 172.72 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3412,6 +3412,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 134.62) (xy 233.68 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "635fcb29-fdc7-4cd4-afa8-56844ee9a5ac")
+	)
+	(wire
+		(pts
 			(xy 257.81 134.62) (xy 261.62 134.62)
 		)
 		(stroke
@@ -3452,7 +3462,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 134.62) (xy 233.68 134.62)
+			(xy 194.31 134.62) (xy 224.79 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3539,16 +3549,6 @@
 			(type default)
 		)
 		(uuid "961108cc-3d75-46ab-b699-748f5a589c79")
-	)
-	(wire
-		(pts
-			(xy 157.48 123.19) (xy 172.72 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9995cb67-b34c-463d-bd8d-2de9368722b4")
 	)
 	(wire
 		(pts
@@ -3881,7 +3881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 262.89 134.62 0)
 			(effects
 				(font
@@ -4124,7 +4124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2317e826-5aa0-4647-9fb7-0bf1e52da9a4")
-		(property "Reference" "R20"
+		(property "Reference" "R12"
 			(at 302.26 148.5899 0)
 			(effects
 				(font
@@ -4228,7 +4228,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "R20")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4316,7 +4316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26e824d5-d1df-49f5-b1ae-e660b5806cd6")
-		(property "Reference" "J39"
+		(property "Reference" "J31"
 			(at 118.11 115.57 0)
 			(effects
 				(font
@@ -4463,7 +4463,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "J39")
+					(reference "J31")
 					(unit 1)
 				)
 			)
@@ -4479,7 +4479,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28e16a00-1aa8-4d8c-ae3d-04a9fe5f387b")
-		(property "Reference" "C20"
+		(property "Reference" "C14"
 			(at 237.49 139.6999 0)
 			(effects
 				(font
@@ -4583,7 +4583,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C20")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -4663,7 +4663,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 157.48 123.19 0)
+		(at 224.79 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4671,7 +4671,7 @@
 		(dnp no)
 		(uuid "3986fd5c-3e9f-4ff0-9881-17a00e4918cb")
 		(property "Reference" "TP20"
-			(at 159.258 119.634 0)
+			(at 226.568 131.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4680,7 +4680,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 158.75 121.92 0)
+			(at 226.06 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4688,8 +4688,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
-			(at 162.56 123.19 0)
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
+			(at 229.87 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4700,7 +4700,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 123.19 0)
+			(at 229.87 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4711,7 +4711,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 157.48 123.19 0)
+			(at 224.79 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4722,7 +4722,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 157.48 123.19 0)
+			(at 224.79 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4733,7 +4733,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 157.48 123.19 0)
+			(at 224.79 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4744,7 +4744,7 @@
 			)
 		)
 		(property "Manufacturer Part No." ""
-			(at 157.48 123.19 0)
+			(at 224.79 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4755,7 +4755,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 157.48 123.19 0)
+			(at 224.79 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4804,7 +4804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 292.1 134.62 0)
 			(effects
 				(font
@@ -4903,7 +4903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4948727d-7841-436b-9507-a2dd687ad23a")
-		(property "Reference" "C21"
+		(property "Reference" "C15"
 			(at 257.81 139.6999 0)
 			(effects
 				(font
@@ -5007,7 +5007,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C21")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -5525,7 +5525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 161.29 138.43 0)
 			(effects
 				(font
@@ -5652,7 +5652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd6aff03-171a-47c5-af8a-ec787465d8de")
-		(property "Reference" "C22"
+		(property "Reference" "C16"
 			(at 290.83 139.6999 0)
 			(effects
 				(font
@@ -5756,7 +5756,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e/6e8a9959-b63f-4a6d-a74b-37ddc14e864e"
-					(reference "C22")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5862,7 +5862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "Hayata_Lib:TestPoint_Pad_Circular_1.3mm"
 			(at 161.29 140.97 0)
 			(effects
 				(font
