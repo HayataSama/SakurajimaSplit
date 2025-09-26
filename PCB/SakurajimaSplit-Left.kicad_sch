@@ -7176,14 +7176,14 @@
 		(uuid "49dc2f18-d7db-4514-a179-f147e1d8d0e8")
 	)
 	(label "Display_~{CS}"
-		(at 179.07 147.32 180)
+		(at 240.03 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.254)
 				(bold yes)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "4cdfb5b8-6890-493a-aa66-576208ffbb12")
 	)
@@ -7440,14 +7440,14 @@
 		(uuid "b179d4ad-b009-49c7-8ff3-bac6acaff743")
 	)
 	(label "Display_~{EN}"
-		(at 240.03 180.34 0)
+		(at 179.07 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.254)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "b23a84b7-281a-468e-937b-9ba389bbbf59")
 	)
