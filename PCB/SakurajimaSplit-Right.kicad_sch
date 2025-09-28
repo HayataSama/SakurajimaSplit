@@ -5328,7 +5328,7 @@
 		(uuid "0c9bb2c5-c5e0-4612-95b5-a6456dd77643")
 	)
 	(label "Display_~{EN}"
-		(at 240.03 157.48 0)
+		(at 240.03 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5664,7 +5664,7 @@
 		(uuid "c33c573c-b165-447e-aaa1-39f027519354")
 	)
 	(label "ROW3"
-		(at 240.03 124.46 0)
+		(at 240.03 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5724,7 +5724,7 @@
 		(uuid "d5a56d5e-4769-4bb6-a763-23e532924f61")
 	)
 	(label "Display_DC"
-		(at 240.03 162.56 0)
+		(at 240.03 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
