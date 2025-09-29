@@ -3961,7 +3961,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 81.28) (xy 369.57 81.28)
+			(xy 372.11 91.44) (xy 369.57 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3971,7 +3971,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 81.28) (xy 342.9 81.28)
+			(xy 340.36 91.44) (xy 342.9 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4051,7 +4051,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 101.6) (xy 342.9 101.6)
+			(xy 340.36 111.76) (xy 342.9 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4261,7 +4261,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 76.2) (xy 342.9 76.2)
+			(xy 340.36 86.36) (xy 342.9 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4331,7 +4331,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 78.74) (xy 342.9 78.74)
+			(xy 340.36 88.9) (xy 342.9 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4551,7 +4551,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 78.74) (xy 369.57 78.74)
+			(xy 372.11 88.9) (xy 369.57 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4561,7 +4561,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 76.2) (xy 369.57 76.2)
+			(xy 372.11 86.36) (xy 369.57 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4831,7 +4831,7 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 101.6) (xy 372.11 101.6)
+			(xy 369.57 111.76) (xy 372.11 111.76)
 		)
 		(stroke
 			(width 0)
@@ -5001,7 +5001,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 83.82) (xy 342.9 83.82)
+			(xy 340.36 93.98) (xy 342.9 93.98)
 		)
 		(stroke
 			(width 0)
@@ -5111,7 +5111,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 73.66) (xy 342.9 73.66)
+			(xy 340.36 83.82) (xy 342.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5171,7 +5171,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 71.12) (xy 342.9 71.12)
+			(xy 340.36 81.28) (xy 342.9 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5201,7 +5201,7 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 73.66) (xy 372.11 73.66)
+			(xy 369.57 83.82) (xy 372.11 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5292,7 +5292,7 @@
 		(uuid "002a286f-c70b-4b15-91b8-a38359ec70b2")
 	)
 	(label "USART_RX"
-		(at 372.11 101.6 0)
+		(at 372.11 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5316,7 +5316,7 @@
 		(uuid "0ab1178f-449d-45f7-ae20-bef401da593a")
 	)
 	(label "USART_TX"
-		(at 340.36 101.6 180)
+		(at 340.36 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5352,7 +5352,7 @@
 		(uuid "1b8bc179-02c5-4511-a61d-7335a64f3afc")
 	)
 	(label "COL5"
-		(at 340.36 83.82 180)
+		(at 340.36 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5460,7 +5460,7 @@
 		(uuid "6440502c-0c0f-4612-ba94-a34fa691b4f1")
 	)
 	(label "COL2"
-		(at 340.36 76.2 180)
+		(at 340.36 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5484,7 +5484,7 @@
 		(uuid "6ed862ea-5bd4-4c5f-a0f8-5631ee973590")
 	)
 	(label "COL0"
-		(at 340.36 71.12 180)
+		(at 340.36 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5556,7 +5556,7 @@
 		(uuid "93c781c6-42ad-4c73-86b2-bc947157cdcb")
 	)
 	(label "COL3"
-		(at 340.36 78.74 180)
+		(at 340.36 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5676,7 +5676,7 @@
 		(uuid "d2d19477-f645-4f70-9ed0-6aceb7b4eb6a")
 	)
 	(label "ROW2"
-		(at 372.11 78.74 0)
+		(at 372.11 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5748,7 +5748,7 @@
 		(uuid "db3f6b38-9943-48b8-93f8-3e79eafff42c")
 	)
 	(label "COL1"
-		(at 340.36 73.66 180)
+		(at 340.36 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5796,7 +5796,7 @@
 		(uuid "df8a9292-978f-4627-ad01-995b8ad00aaf")
 	)
 	(label "ROW1"
-		(at 372.11 76.2 0)
+		(at 372.11 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5808,7 +5808,7 @@
 		(uuid "e0e701a8-f378-4502-9fe6-1c5696d9b6d1")
 	)
 	(label "ROW3"
-		(at 372.11 81.28 0)
+		(at 372.11 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5844,7 +5844,7 @@
 		(uuid "e67b6637-cea1-4d36-957e-339bea479db3")
 	)
 	(label "COL4"
-		(at 340.36 81.28 180)
+		(at 340.36 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5940,7 +5940,7 @@
 		(uuid "fdb934d4-4670-4e7b-902a-7e48ad5a3105")
 	)
 	(label "ROW0"
-		(at 372.11 73.66 0)
+		(at 372.11 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6456,87 +6456,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 379.73 26.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e004c43-d027-401f-ac34-0d9a119c6776")
-		(property "Reference" "H5"
-			(at 382.27 25.3999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 382.27 27.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 379.73 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 379.73 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" "M3 screws, Rubber o-rings"
-			(at 379.73 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 132.08 46.99 90)
 		(unit 1)
@@ -6596,7 +6515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://lionelectronic.ir/products/5092-TS-1187A-B-A-B"
+		(property "Distributor Link" "https://lionelectronic.ir/products/5480-TS-1010B-B-A"
 			(at 132.08 46.99 0)
 			(effects
 				(font
@@ -6618,7 +6537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." "TS-1187A-B-A-B"
+		(property "Manufacturer Part No." " TS-1010B-B-A"
 			(at 132.08 46.99 0)
 			(effects
 				(font
@@ -7296,6 +7215,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 374.65 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47429cd5-54d9-4059-866e-7e320ba9f7b4")
+		(property "Reference" "H18"
+			(at 377.19 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Plate MountingHole"
+			(at 377.19 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 374.65 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 374.65 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M2 screws"
+			(at 374.65 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 71.12 142.24 0)
 		(unit 1)
@@ -7508,16 +7508,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 379.73 41.91 0)
+		(at 349.25 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5a6070b9-ebfc-4226-a5b5-b4c0287ec4ba")
-		(property "Reference" "H7"
-			(at 382.27 40.6399 0)
+		(uuid "5a91aa50-b740-4c3a-a2a4-32f097cebd1f")
+		(property "Reference" "H19"
+			(at 351.79 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7525,8 +7525,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
-			(at 382.27 43.1799 0)
+		(property "Value" "Plate MountingHole"
+			(at 351.79 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7534,8 +7534,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 379.73 41.91 0)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 349.25 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7546,7 +7546,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 41.91 0)
+			(at 349.25 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7557,7 +7557,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 379.73 41.91 0)
+			(at 349.25 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7567,8 +7567,8 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "M3 screws, Rubber o-rings"
-			(at 379.73 41.91 0)
+		(property "Notes" "M2 screws"
+			(at 349.25 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7581,7 +7581,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
-					(reference "H7")
+					(reference "H19")
 					(unit 1)
 				)
 			)
@@ -7589,16 +7589,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 379.73 34.29 0)
+		(at 349.25 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "649fe5dd-3ac4-4f34-8c33-50df1af98124")
-		(property "Reference" "H6"
-			(at 382.27 33.0199 0)
+		(uuid "5be6f86b-11a5-44d8-a6da-9afc95dfdb9e")
+		(property "Reference" "H17"
+			(at 351.79 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7606,8 +7606,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
-			(at 382.27 35.5599 0)
+		(property "Value" "Plate MountingHole"
+			(at 351.79 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7615,8 +7615,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 379.73 34.29 0)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 349.25 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7627,7 +7627,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 34.29 0)
+			(at 349.25 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7638,7 +7638,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 379.73 34.29 0)
+			(at 349.25 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7648,8 +7648,8 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "M3 screws, Rubber o-rings"
-			(at 379.73 34.29 0)
+		(property "Notes" "M2 screws"
+			(at 349.25 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7662,88 +7662,7 @@
 		(instances
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 379.73 49.53 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67806c53-cace-4220-82e8-eff61351aab1")
-		(property "Reference" "H8"
-			(at 382.27 48.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 382.27 50.7999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 379.73 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 379.73 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" "M3 screws, Rubber o-rings"
-			(at 379.73 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "SakurajimaSplit"
-				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
-					(reference "H8")
+					(reference "H17")
 					(unit 1)
 				)
 			)
@@ -7816,6 +7735,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 374.65 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69b09efd-0f1b-41c5-a086-42fd07bf5246")
+		(property "Reference" "H16"
+			(at 377.19 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Plate MountingHole"
+			(at 377.19 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 374.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 374.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M2 screws"
+			(at 374.65 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 73.66 218.44 0)
 		(unit 1)
@@ -7882,6 +7882,249 @@
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
 					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 349.25 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ec85633-8698-4c56-b72e-3ada38b557ea")
+		(property "Reference" "H15"
+			(at 351.79 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Plate MountingHole"
+			(at 351.79 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 349.25 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 349.25 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 349.25 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M2 screws"
+			(at 349.25 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 349.25 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "773eb958-637f-44b3-a892-7c5d1664f01d")
+		(property "Reference" "H11"
+			(at 351.79 22.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Case MountingHole"
+			(at 351.79 25.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 349.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 349.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 349.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M3 screws, Rubber o-rings"
+			(at 349.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 374.65 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bfdde87-908c-442f-967b-b107dbdcfec5")
+		(property "Reference" "H14"
+			(at 377.19 30.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Case MountingHole"
+			(at 377.19 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 374.65 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 374.65 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M3 screws, Rubber o-rings"
+			(at 374.65 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -8728,6 +8971,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor Link" "https://lionelectronic.ir/products/4734-GRM188R72A104KA35D"
+			(at 100.33 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 100.33 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No." "GRM188R72A104KA35D"
+			(at 100.33 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "31e358dc-5b31-4af6-9a29-0cb57d366248")
 		)
@@ -8936,6 +9206,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 374.65 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb9af94f-5fc4-48c8-bd1c-34d712805781")
+		(property "Reference" "H12"
+			(at 377.19 22.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Case MountingHole"
+			(at 377.19 25.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 374.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 374.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M3 screws, Rubber o-rings"
+			(at 374.65 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 48.26 162.56 0)
 		(unit 1)
@@ -8997,6 +9348,86 @@
 			(project "SakurajimaSplit"
 				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
 					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 374.65 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb0a4995-4d18-45d4-b783-f9ad7ea3838f")
+		(property "Reference" "H20"
+			(at 377.19 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Plate MountingHole"
+			(at 377.19 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 374.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 374.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 374.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M2 screws"
+			(at 374.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H20")
 					(unit 1)
 				)
 			)
@@ -9611,6 +10042,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 349.25 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea27dcb3-8c47-4084-b1b5-15f2c6c5fdeb")
+		(property "Reference" "H13"
+			(at 351.79 30.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Case MountingHole"
+			(at 351.79 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 349.25 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 349.25 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 349.25 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "M3 screws, Rubber o-rings"
+			(at 349.25 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SakurajimaSplit"
+				(path "/2049b6de-7453-46e1-ab60-70116abff9d6/2fb40ee0-3e4b-4e2d-8d4c-b78786a3c10e"
+					(reference "H13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 58.42 157.48 0)
 		(unit 1)
@@ -9816,7 +10328,7 @@
 		)
 	)
 	(sheet
-		(at 342.9 68.58)
+		(at 342.9 78.74)
 		(size 26.67 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9832,7 +10344,7 @@
 		)
 		(uuid "177a5d22-8137-4d36-99f5-f50b13e7348e")
 		(property "Sheetname" "Key-Matrix"
-			(at 342.9 67.8684 0)
+			(at 342.9 78.0284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9841,7 +10353,7 @@
 			)
 		)
 		(property "Sheetfile" "SakurajimaSplit-Right-Matrix.kicad_sch"
-			(at 342.9 86.9446 0)
+			(at 342.9 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9850,7 +10362,7 @@
 			)
 		)
 		(pin "COL2" input
-			(at 342.9 76.2 180)
+			(at 342.9 86.36 180)
 			(uuid "ab3f650d-f16e-45d1-a7f5-962623e7762f")
 			(effects
 				(font
@@ -9860,7 +10372,7 @@
 			)
 		)
 		(pin "COL4" input
-			(at 342.9 81.28 180)
+			(at 342.9 91.44 180)
 			(uuid "de57e480-f1a3-4b53-96e3-347fef6042c2")
 			(effects
 				(font
@@ -9870,7 +10382,7 @@
 			)
 		)
 		(pin "ROW0" output
-			(at 369.57 73.66 0)
+			(at 369.57 83.82 0)
 			(uuid "4e611fc5-8dc3-410f-9533-6995f4ff84ef")
 			(effects
 				(font
@@ -9880,7 +10392,7 @@
 			)
 		)
 		(pin "COL1" input
-			(at 342.9 73.66 180)
+			(at 342.9 83.82 180)
 			(uuid "46680023-8338-491b-aa1b-70d5a60b0484")
 			(effects
 				(font
@@ -9890,7 +10402,7 @@
 			)
 		)
 		(pin "ROW1" output
-			(at 369.57 76.2 0)
+			(at 369.57 86.36 0)
 			(uuid "ff7fdbff-55a6-48cf-8b85-db7c0da56504")
 			(effects
 				(font
@@ -9900,7 +10412,7 @@
 			)
 		)
 		(pin "COL3" input
-			(at 342.9 78.74 180)
+			(at 342.9 88.9 180)
 			(uuid "eb62df2c-cf63-4577-a1e4-f81a92bebbde")
 			(effects
 				(font
@@ -9910,7 +10422,7 @@
 			)
 		)
 		(pin "ROW2" output
-			(at 369.57 78.74 0)
+			(at 369.57 88.9 0)
 			(uuid "5b59d3c7-4410-4c10-b3b8-88f8ef5a063d")
 			(effects
 				(font
@@ -9920,7 +10432,7 @@
 			)
 		)
 		(pin "ROW3" output
-			(at 369.57 81.28 0)
+			(at 369.57 91.44 0)
 			(uuid "afaebfe5-b268-4c89-bd2b-a605c5831509")
 			(effects
 				(font
@@ -9930,7 +10442,7 @@
 			)
 		)
 		(pin "COL5" input
-			(at 342.9 83.82 180)
+			(at 342.9 93.98 180)
 			(uuid "ac0cd47c-34e5-4787-924e-b3a52d7ecaef")
 			(effects
 				(font
@@ -9940,7 +10452,7 @@
 			)
 		)
 		(pin "COL0" input
-			(at 342.9 71.12 180)
+			(at 342.9 81.28 180)
 			(uuid "a0aa8edd-740a-430c-8c56-fdfff1d5f5eb")
 			(effects
 				(font
@@ -9958,7 +10470,7 @@
 		)
 	)
 	(sheet
-		(at 342.9 92.71)
+		(at 342.9 102.87)
 		(size 26.67 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9974,7 +10486,7 @@
 		)
 		(uuid "6e8a9959-b63f-4a6d-a74b-37ddc14e864e")
 		(property "Sheetname" "Power"
-			(at 342.9 91.9984 0)
+			(at 342.9 102.1584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9983,7 +10495,7 @@
 			)
 		)
 		(property "Sheetfile" "SakurajimaSplit-Right-Power.kicad_sch"
-			(at 342.9 111.0746 0)
+			(at 342.9 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9992,7 +10504,7 @@
 			)
 		)
 		(pin "USART_TX" input
-			(at 342.9 101.6 180)
+			(at 342.9 111.76 180)
 			(uuid "6c741a90-8858-484b-b116-3d96d2cf7b47")
 			(effects
 				(font
@@ -10002,7 +10514,7 @@
 			)
 		)
 		(pin "USART_RX" output
-			(at 369.57 101.6 0)
+			(at 369.57 111.76 0)
 			(uuid "8a60fa77-f1e1-4f07-94f6-b213c3576337")
 			(effects
 				(font

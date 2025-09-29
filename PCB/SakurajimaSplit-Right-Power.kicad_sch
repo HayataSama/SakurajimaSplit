@@ -2918,9 +2918,9 @@
 		)
 		(uuid e606ee7f-00a2-40b6-adb6-4e647fc9ac1d)
 	)
-	(text "USB-C to Right-Half\n"
+	(text "USB-C to Left-Half\n"
 		(exclude_from_sim no)
-		(at 109.982 102.108 0)
+		(at 108.966 102.108 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4364,7 +4364,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C to Right-Half"
+		(property "Value" "USB-C to Left-Half"
 			(at 118.11 118.11 0)
 			(effects
 				(font
