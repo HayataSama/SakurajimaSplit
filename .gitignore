@@ -1,31 +1,55 @@
 # Temporary files
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*.kicad_sch-bak
-*-backups
-*.kicad_prl
-*.sch-bak
-*~
-_autosave-*
-*.tmp
-*-save.pro
-*-save.kicad_pcb
-fp-info-cache
-~*.lck
-\#auto_saved_files#
+PCB/*.000
+PCB/*.bak
+PCB/*.bck
+PCB/*.kicad_pcb-bak
+PCB/*.kicad_sch-bak
+PCB/*-backups
+PCB/*-cache*
+PCB/*-bak
+PCB/*-bak*
+PCB/*~
+PCB/~*
+PCB/_autosave-*
+PCB/\#auto_saved_files\#
+PCB/*.tmp
+PCB/*-save.pro
+PCB/*-save.kicad_pcb
+PCB/fp-info-cache
+PCB/~*.lck
+PCB/\#auto_saved_files#
 
 # Netlist files (exported from Eeschema)
-*.net
+PCB/*.net
 
 # Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
+PCB/*.dsn
+PCB/*.ses
 
 # Exported BOM files
-*.xml
-*.csv
+PCB/*.xml
+PCB/*.csv
+
+# Archived Backups (KiCad 6.0)
+PCB/**/*-backups/*.zip
+
+# Local git-based history (KiCad 9.0+)
+PCB/.history
+
+# Local project settings
+PCB/*.kicad_prl
 
 # KLE plugin log files
-keyautoplace.log
+PCB/keyautoplace.log
+
+# FreeCAD backup and temporary files
+CAD/*.FC.lock
+CAD/*.bak
+CAD/*.FCBak
+CAD/*.tmp
+
+# LTSpice
+simulation/**/*.log
+simulation/**/*.raw
+simulation/**/*.net
+simulation/**/*.fft
